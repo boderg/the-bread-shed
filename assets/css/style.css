@@ -1,6 +1,8 @@
 /*----------Background----------*/
 
 body {
+    margin: 0;
+    padding: 0;
     background-image: url("/assets/images/sandwich.png");
     background-position: center top;
     background-repeat: no-repeat;
@@ -16,9 +18,9 @@ body {
 }
 
 .navbar-brand {
-color: brown;
-font-family: "Concert One", sans-serif;
-font-size: 50px;
+    color: brown;
+    font-family: "Concert One", sans-serif;
+    font-size: 50px;
 }
 
 .nav-link {
@@ -31,10 +33,46 @@ font-size: 50px;
     background-color: bisque;
 }
 
+/*----------Middle----------*/
+
+h1 {
+    font-family: "Concert One", sans-serif;
+    font-size: 65px;
+    color: brown;
+}
+
+.heading {
+    height: auto;
+    padding: 5px;
+    margin-top: 250px;
+    margin-bottom: 350px;
+    /* background-image: linear-gradient(to right, rgba(255, 228, 196, 0.2), rgba(255, 228, 196, 0.7), rgba(255, 228, 196, 0.2)); */
+}
+
 /*----------Media queries----------*/
 
 @media only screen and (max-width : 990px) {
     .navbar-collapse {
-    background: bisque;
-  }
+        background: bisque;
+    }
+}
+
+/*----------Footer----------*/
+
+footer {
+    color: brown;
+    font-family: "Concert One", sans-serif;
+    /* background-color: rgba(165, 42, 42, 0.501); */
+    padding-top: 15px;
+}
+
+.fa-brands {
+    color: brown;
+    font-size: x-large;
+}
+
+.fa-brands:hover {
+    color: bisque;
+    background-color: brown;
+    border-radius: 50%;
 }
