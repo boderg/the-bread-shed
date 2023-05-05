@@ -1,0 +1,40 @@
+/*----------Background----------*/
+
+body {
+    background-image: url("/assets/images/sandwich.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: bisque;
+}
+
+/*----------Navbar----------*/
+
+.navbar {
+    width: 100%;
+}
+
+.navbar-brand {
+color: brown;
+font-family: "Concert One", sans-serif;
+font-size: 50px;
+}
+
+.nav-link {
+    color: brown;
+    font-family: "Concert One", sans-serif;
+    font-size: 20px;
+}
+
+.navbar-collapse.collapsing {
+    background-color: bisque;
+}
+
+/*----------Media queries----------*/
+
+@media only screen and (max-width : 990px) {
+    .navbar-collapse {
+    background: bisque;
+  }
+}
