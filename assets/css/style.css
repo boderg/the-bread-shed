@@ -3,16 +3,12 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("/assets/images/sandwich.webp");
+    background-image: url("/assets/images/sandwich_overlay.webp");
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-color: bisque;
-}
-
-.overlay {
-    background-color: rgba(255, 228, 196, 0.05);
 }
 
 /*----------Navbar----------*/
@@ -25,12 +21,14 @@ body {
     color: rgba(0, 0, 0, 0.7);
     font-family: "Concert One", sans-serif;
     font-size: 50px;
+    -webkit-text-stroke: 0.5px bisque;
 }
 
 .nav-link {
     color: rgba(0, 0, 0, 0.7);
     font-family: "Concert One", sans-serif;
-    font-size: 20px;
+    font-size: 25px;
+    -webkit-text-stroke: 0.25px bisque;
 }
 
 .navbar-toggler {
@@ -72,8 +70,7 @@ h1 {
 footer {
     color: black;
     font-family: "Concert One", sans-serif;
-    /* background-color: rgba(165, 42, 42, 0.501); */
-    padding-top: 15px;
+    margin: 30px 0;
     -webkit-text-stroke: 0.25px bisque;
 }
 
@@ -116,6 +113,16 @@ h4 {
     color: rgba(0, 0, 0, 0.7);
 }
 
+.contact-heading {
+    font-size: 40px;
+    -webkit-text-stroke: 0.25px bisque;
+}
+
+.contact-sub-heading {
+    font-size: 35px;
+    -webkit-text-stroke: 0.5px bisque;
+}
+
 .form {
     font-family: "Concert One", sans-serif;
     color: rgba(0, 0, 0, 0.7);
@@ -144,14 +151,30 @@ h4 {
 /*----------Address and Map----------*/
 
 .address {
+    font-family: "Concert One", sans-serif;
     text-align: center;
     color: rgba(0, 0, 0, 0.7); 
     margin-top: 30px;
+    -webkit-text-stroke: 0.35px bisque;
 }
 
-.address p {
+.contact {
+    font-size: 35px;
+    font-weight: 500;
+    
+}
+
+.sub-contact {
     text-align: center;
-    color: rgba(0, 0, 0, 0.7);
-    font-size: 20px;
-    font-weight: 700;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.map{
+    margin-top: 30px;
+    text-align: center;
+}
+
+.map-actual {
+    border-radius: 5px;
 }

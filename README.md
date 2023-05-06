@@ -66,6 +66,8 @@ This is the main marketing website fof The Bread Shed. The Bread Shed is a sandw
       - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
    1. [Google Fonts:](https://fonts.google.com/)
       - Google fonts were used to link the 'Concert One' font into the .html files which is used on all pages throughout the project.
+   1. [Google Maps:](https://maps.google.com/)
+      - Google maps were used to add a map of the location to the contact.html page of the project.
    1. [Font Awesome:](https://fontawesome.com/)
       - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
    1. [jQuery:](https://jquery.com/)
