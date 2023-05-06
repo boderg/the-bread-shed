@@ -198,31 +198,31 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
-## Credits
+- ## Credits
   
 
-### Code
+  - ### Code
 
-- The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+    - The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
 
-- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+    - [Bootstrap5](https://getbootstrap.com/docs/5.3/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
-- [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+    - [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
 
-### Content
+  - ### Content
 
-- All content was written by the developer.
+    - All content was written by the developer.
 
-- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+    - Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
-### Media
+  - ### Media
 
-- Bckground Photo by <a href="https://unsplash.com/ja/@monteverdo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Monteverdo Barnsley</a> on <a href="https://unsplash.com/photos/BXNctQYqPOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    - Bckground Photo by <a href="https://unsplash.com/ja/@monteverdo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Monteverdo Barnsley</a> on <a href="https://unsplash.com/photos/BXNctQYqPOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
   
 
-### Acknowledgements
+  - ### Acknowledgements
 
-- My Mentor for continuous helpful feedback.
+    - My Mentor for continuous helpful feedback.
 
-- Tutor support at Code Institute for their support.
+    - Tutor support at Code Institute for their support.
