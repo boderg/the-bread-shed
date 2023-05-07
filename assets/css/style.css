@@ -69,20 +69,30 @@ h2 {
     height: 700px;
 }
 
-.menu-items, .menu-prices {
+.menu-sub-header {
     font-family: "Shadows Into Light", sans-serif;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     color: rgba(0, 0, 0, 0.7);
-    list-style: none;
 }
 
-.menu-ingredients {
+/*----------Menu tables----------*/
+
+.table {
     font-family: "Shadows Into Light", sans-serif;
     font-size: 20px;
     font-weight: bold;
     color: rgba(0, 0, 0, 0.7);
-    list-style: none;
+}
+
+th {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.price {
+    font-size: 30px;
+    font-weight: bold;
 }
 
 /*----------Contact form----------*/
