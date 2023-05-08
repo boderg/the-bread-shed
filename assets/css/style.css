@@ -1,4 +1,14 @@
-/*----------Body background----------*/
+/*----------Body / background----------*/
+
+html,
+body {
+    height: 100%;
+}
+
+body>footer {
+    position: sticky;
+    top: 100vh;
+}
 
 body {
     margin: 0;
@@ -144,7 +154,7 @@ h4 {
 .address {
     font-family: "Concert One", sans-serif;
     text-align: center;
-    color: rgba(0, 0, 0, 0.7); 
+    color: rgba(0, 0, 0, 0.7);
     margin-top: 30px;
     -webkit-text-stroke: 0.35px rgba(255, 228, 196, 0.7);
 }
@@ -152,7 +162,7 @@ h4 {
 .contact {
     font-size: 35px;
     font-weight: 500;
-    
+
 }
 
 .sub-contact {
@@ -161,7 +171,7 @@ h4 {
     font-weight: 500;
 }
 
-.map{
+.map {
     margin-top: 30px;
     text-align: center;
 }
