@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-image: url("/assets/images/sandwich_overlay.webp");
+    background-image: url("../images/sandwich_overlay.webp");
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
