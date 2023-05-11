@@ -1,230 +1,409 @@
-<h1 align="center"> The Bread Shed Website </h1>
+# THE BREAD SHED
 
-[View the live project here.]()
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-This is the main marketing website fof The Bread Shed. The Bread Shed is a sandwich shop that creates tasty homemade sandwiches made to order from a variety of ingredients. Your choice, your way made to order.
+In this section, you will include a few paragraphs providing an overview of your project.
+Essentially, this part is your "sales pitch".
 
-<h2 align="center"><img src=""></h2>
+At this stage, you should have a name for your project so use it!
+Don't introduce the project as a "portfolio project" for the diploma.
 
-## User Experience (UX)
+In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
 
-- ### User stories
+Consider adding a mockup image using the "Am I Responsive" website.
+Here's your deployed site as an example:
+https://ui.dev/amiresponsive?url=https://boderg.github.io/the-bread-shed
 
-    -   #### First Time Visitor Goals
+Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
+(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
+Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
+To add the image into your README, use this format:
+(assuming you have a new folder called `documentation` with an image called "mockup.png")
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about what is on offer.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to order a sandwich in my lunchtime.
-        3. As a First Time Visitor, I want to look for testimonials to see what others think of their sandwiches and see if they have a good food hygeine standard. I also want to locate their social media links to see their followings and what people are saying about them.
+![screenshot](documentation/mockup.png)
 
-    -   #### Returning Visitor Goals
+Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
+Find out more about using Markdown elements here:
+https://pandao.github.io/editor.md/en.html
 
-        1. As a Returning Visitor, I want to find a variety of ingredients so I can try new sandwiches each time I visit.
-        2. As a Returning Visitor, I want to find the easiest way to contact the store with any questions I may have and to be able to offer ingredient suggestions.
-        3. As a Returning Visitor, I want to find good value and a selection of snacks to complement my sandwich choice.
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-    -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see regular specials and offers.
-        2. As a Frequent User, I want to check to see a loyalty scheme.
-        3. As a Frequent User, I want to be able to download a price list / menu.
+## UX
 
-- ### Design
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-    -   #### Colour Scheme
-        - The two main colours used are Bisque and Black
-    -   #### Typography
-        - The Concert One google font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. The Concert One font was chosen as it complements the style of the site.
-    -   #### Imagery
-        - Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It ia also relative to the site's purpose and aesthetic.
+In this section, you will briefly explain your design processes.
 
-- ### Wireframes
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-    -   Home Page Wireframe - [View](https://github.com/)
+### Colour Scheme
 
-    -   Mobile Wireframe - [View](https://github.com/)
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+Explain your colours and the colour scheme.
 
-- ## Features
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-  - Responsive on all device sizes
+- `#000000` used for primary text.
+- `#E84610` used for primary highlights.
+- `#4A4A4F` used for secondary text.
+- `#009FE3` used for secondary highlights.
 
-  - Interactive elements
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-- ## Technologies Used
+Consider adding a link and screenshot for your colour scheme using "coolors".
+https://coolors.co/generate
 
-  - ### Languages Used
+When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
 
-    - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+Example:
 
-    - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-  - ### Frameworks, Libraries & Programs Used
+I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
 
-   1. [Bootstrap 5.3.0:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
-      - Bootstrap was used to assist with the responsiveness and styling of the website.
-   1. [Hover.css:](https://ianlunn.github.io/Hover/)
-      - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
-   1. [Google Fonts:](https://fonts.google.com/)
-      - Google fonts were used to link the 'Concert One' font into the .html files which is used on all pages throughout the project.
-   1. [Google Maps:](https://maps.google.com/)
-      - Google maps were used to add a map of the location to the contact.html page of the project.
-   1. [Font Awesome:](https://fontawesome.com/)
-      - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-   1. [jQuery:](https://jquery.com/)
-      - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
-   1. [Git](https://git-scm.com/)
-      - Git was used for version control by utilizing the VSCode terminal to commit to Git and Push to GitHub.
-   1. [GitHub:](https://github.com/)
-      - GitHub is used to store the projects code after being pushed from Git.
-   1. [Affinity Photo:](https://www.affinity.serif.com)
-      - Affinity Photo was used to resize images and edit photos for the website.
-   1. [Balsamiq:](https://balsamiq.com/)
-      - Balsamiq was used to create the [wireframes](https://github.com/) during the design process.
+![screenshot](documentation/coolors.png)
 
-- ## Testing
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-     - The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
+If you've used CSS `:root` variables, consider also including a code snippet here!
 
-     - [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
-     - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-     - ### Testing User Stories from User Experience (UX) Section
+I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
 
-  - #### First Time Visitor Goals
-
-     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
-
-     2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
-
-     3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
-
-  - #### Returning Visitor Goals
-
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
-
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-
-  - #### Frequent User Goals
-
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
-
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
-        1. The user would already be comfortable with the website layout and can easily click the blog link
-
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
-
-  - ### Further Testing
-
-    - The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-    - The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
-    - A large amount of testing was done to ensure that all pages were linking correctly.
-    - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
-
-  - ### Known Bugs
-
-    - On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.
-    - A white gap can be seen to the right of the footer and navigation bar as a result.
-    - On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them.
-
-- ## Deployment
-
-  - ### GitHub Pages
-
-   - The project was deployed to GitHub Pages using the following steps...
-
-      1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-      2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
-    - Alternatively Click [Here](https://raw.githubusercontent.com/) for a GIF demonstrating the process starting from Step 2.
-
-      3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-      4. Under "Source", click the dropdown called "None" and select "Master Branch".
-      5. The page will automatically refresh.
-      6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
-
-  - ### Forking the GitHub Repository
-
-    By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-      1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-      2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-      3. You should now have a copy of the original repository in your GitHub account.
-
-   - ### Making a Local Clone
-
-      1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-      2. Under the repository name, click "Clone or download".
-      3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
-      4. Open Git Bash
-      5. Change the current working directory to the location where you want the cloned directory to be made.
-      6. Type `git clone`, and then paste the URL you copied in Step 3.
-
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```css
+:root {
+    /* P = Primary | S = Secondary */
+    --p-text: #000000;
+    --p-highlight: #E84610;
+    --s-text: #4A4A4F;
+    --s-highlight: #009FE3;
+    --white: #FFFFFF;
+    --black: #000000;
+}
 ```
 
-7. Press Enter. Your local clone will be created.
+### Typography
 
-```
-$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
-> Cloning into `CI-Clone`...
-> remote: Counting objects: 10, done.
-> remote: Compressing objects: 100% (8/8), done.
-> remove: Total 10 (delta 1), reused 10 (delta 1)
-> Unpacking objects: 100% (10/10), done.
-```
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
+Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
 
-- ## Credits
-  
+Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
 
-  - ### Code
+Example:
 
-    - The full-screen hero image code came from this [StackOverflow post](https://stackoverflow.com)
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-    - [Bootstrap5](https://getbootstrap.com/docs/5.3/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
 
-    - [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
+- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
 
-  - ### Content
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
 
-    - All content was written by the developer.
+## User Stories
 
-    - Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
-  - ### Media
+In this section, list all of your user stories for the project.
 
-    - Bckground Photo by <a href="https://unsplash.com/ja/@monteverdo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Monteverdo Barnsley</a> on <a href="https://unsplash.com/photos/BXNctQYqPOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-  
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-  - ### Acknowledgements
+### New Site Users
 
-    - My Mentor for continuous helpful feedback.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to ____________, so that I can ____________.
 
-    - Tutor support at Code Institute for their support.
+### Returning Site Users
+
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to ____________, so that I can ____________.
+
+### Site Admin
+
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to ____________, so that I can ____________.
+
+## Wireframes
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+In this section, display your wireframe screenshots using a Markdown `table`.
+
+Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+
+### Home Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+
+### About Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+
+### Contact Page Wireframes
+
+| Size | Screenshot |
+| --- | --- |
+| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Repeat for any addition wireframe pages you have.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+## Features
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+In this section, you should go over the different parts of your project,
+and describe each in a sentence or so.
+
+You will need to explain what value each of the features provides for the user,
+focusing on who this website is for, what it is that they want to achieve,
+and how your project is the best way to help them achieve these things.
+
+For some/all of your features, you may choose to reference the specific project files that implement them.
+
+IMPORTANT: Remember to always include a screenshot of each individual feature!
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+### Existing Features
+
+- **Title for feature #1**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature01.png)
+
+- **Title for feature #2**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature02.png)
+
+- **Title for feature #3**
+
+    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+
+![screenshot](documentation/feature03.png)
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Repeat as necessary for as many features as your site contains.
+
+Hint: the more, the merrier!
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+### Future Features
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Do you have additional ideas that you'd like to include on your project in the future?
+Fantastic! List them here!
+It's always great to have plans for future improvements!
+Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+- Title for future feature #1
+    - Any additional notes about this feature.
+- Title for future feature #2
+    - Any additional notes about this feature.
+- Title for future feature #3
+    - Any additional notes about this feature.
+
+## Tools & Technologies Used
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+In this section, you should explain the various tools and technologies used to develop the project.
+Make sure to put a link (where applicable) to the source, and explain what each was used for.
+Some examples have been provided, but this is just a sample only, your project might've used others.
+Feel free to delete any unused items below as necessary.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+- [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
+- [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
+- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
+- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
+- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
+- [JavaScript](https://www.javascript.com) used for user interaction on the site.
+- [Python](https://www.python.org) used as the back-end programming language.
+- [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
+- [GitHub](https://github.com) used for secure online code storage.
+- [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
+- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
+- [Django](https://www.djangoproject.com) used as the Python framework for the site.
+- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
+- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
+- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
+- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
+- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
+- [Cloudinary](https://cloudinary.com) used for online static file storage.
+- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
+- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
+
+## Testing
+
+For all testing, please refer to the [TESTING.md](TESTING.md) file.
+
+## Deployment
+
+The site was deployed to GitHub Pages. The steps to deploy are as follows:
+- In the [GitHub repository](https://github.com/boderg/the-bread-shed), navigate to the Settings tab 
+- From the source section drop-down menu, select the **Main** Branch, then click "Save".
+- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://boderg.github.io/the-bread-shed)
+
+### Local Deployment
+
+This project can be cloned or forked in order to make a local copy on your own system.
+
+#### Cloning
+
+You can clone the repository by following these steps:
+
+1. Go to the [GitHub repository](https://github.com/boderg/the-bread-shed) 
+2. Locate the Code button above the list of files and click it 
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
+4. Open Git Bash or Terminal
+5. Change the current working directory to the one where you want the cloned directory
+6. In your IDE Terminal, type the following command to clone my repository:
+	- `git clone https://github.com/boderg/the-bread-shed.git`
+7. Press Enter to create your local clone.
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/boderg/the-bread-shed)
+
+Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
+A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
+
+#### Forking
+
+By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+You can fork this repository by using the following steps:
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/boderg/the-bread-shed)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
+
+### Local VS Deployment
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+## Credits
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+In this section you need to reference where you got your content, media, and extra help from.
+It is common practice to use code from other repositories and tutorials,
+however, it is important to be very specific about these sources to avoid plagiarism.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+### Content
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Use this space to provide attribution links to any borrowed code snippets, elements, or resources.
+A few examples have been provided below to give you some ideas.
+
+Ideally, you should provide an actual link to every resource used, not just a generic link to the main site!
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+| Source | Location | Notes |
+| --- | --- | --- |
+| [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
+| [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
+| [W3Schools](https://www.w3schools.com/howto/howto_js_topnav_responsive.asp) | entire site | responsive HTML/CSS/JS navbar |
+| [W3Schools](https://www.w3schools.com/howto/howto_css_modals.asp) | contact page | interactive pop-up (modal) |
+| [W3Schools](https://www.w3schools.com/css/css3_variables.asp) | entire site | how to use CSS :root variables |
+| [Flexbox Froggy](https://flexboxfroggy.com/) | entire site | modern responsive layouts |
+| [Grid Garden](https://cssgridgarden.com) | entire site | modern responsive layouts |
+| [StackOverflow](https://stackoverflow.com/a/2450976) | quiz page | Fisher-Yates/Knuth shuffle in JS |
+| [YouTube](https://www.youtube.com/watch?v=YL1F4dCUlLc) | leaderboard | using `localStorage()` in JS for high scores |
+| [YouTube](https://www.youtube.com/watch?v=u51Zjlnui4Y) | PP3 terminal | tutorial for adding color to the Python terminal |
+| [strftime](https://strftime.org) | CRUD functionality | helpful tool to format date/time from string |
+| [WhiteNoise](http://whitenoise.evans.io) | entire site | hosting static files on Heroku temporarily |
+
+### Media
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Use this space to provide attribution links to any images, videos, or audio files borrowed from online.
+A few examples have been provided below to give you some ideas.
+
+If you're the owner (or a close acquaintance) of all media files, then make sure to specify this.
+Let the assessors know that you have explicit rights to use the media files within your project.
+
+Ideally, you should provide an actual link to every media file used, not just a generic link to the main site!
+The list below is by no means exhaustive. Within the Code Institute Slack community, you can find more "free media" links
+by sending yourself the following command: `!freemedia`.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+| Source | Location | Type | Notes |
+| --- | --- | --- | --- |
+| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
+| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
+| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
+| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
+| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
+| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
+| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
+| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
+| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+
+### Acknowledgements
+
+⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+
+Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
+A few examples have been provided below to give you some ideas.
+
+🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
+- I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
+- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
