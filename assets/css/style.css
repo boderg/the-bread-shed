@@ -57,8 +57,34 @@ h1 {
 .heading {
     height: auto;
     padding: 5px;
-    margin-top: 250px;
-    margin-bottom: 350px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+/*----------Carousel----------*/
+
+.carousel {
+    background-color: rgba(255, 228, 196, 0.7);
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    margin: 50px 0;
+}
+
+.compliment-title, h5 {
+    font-family: "Concert One", sans-serif;
+    color: rgba(0, 0, 0, 0.7);
+}
+
+.compliment {
+    font-family: "Shadows Into Light", sans-serif;
+    font-weight: bolder;
+}
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: rgba(0, 0, 0, 1);
 }
 
 /*----------Menus----------*/
@@ -157,6 +183,10 @@ h4 {
     color: rgba(0, 0, 0, 0.7);
     margin-top: 30px;
     -webkit-text-stroke: 0.35px rgba(255, 228, 196, 0.7);
+    background-color: rgba(255, 228, 196, 0.7);
+    width: 40%;
+    border: 1px solid rgba(0, 0, 0, 0.7);
+    border-radius: 5px;
 }
 
 .contact {
@@ -210,6 +240,10 @@ footer {
 
     .form-control {
         width: 100%;
+    }
+
+    .address {
+        width: 90%;
     }
 }
 
