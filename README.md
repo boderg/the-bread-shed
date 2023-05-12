@@ -1,5 +1,14 @@
 # THE BREAD SHED
 
+- The Bread Shed is sandwich shop that sells homemade sandwiches along with snacks and drinks. 
+- It is a place where anyone can grab a quick bite to eat for breakfast or lunch during their day. 
+- The site is designed so that customers can view the menu and make a decision on what they might like to eat or drink before they arrive at the shop. 
+- The customer can also phone their order through so that it is pre-made and ready for them upon arrival at the store.
+- The Bread Shed website is designed with ease in mind and is divided into menu pages where the food items are seperated by type.
+- The target audience for this website is anyone that is looking for something to eat that is quick and easy to obtain and healthy to eat.
+- Included below are two mockup images of The Bread Shed website.
+
+
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
 In this section, you will include a few paragraphs providing an overview of your project.
@@ -14,13 +23,10 @@ Consider adding a mockup image using the "Am I Responsive" website.
 Here's your deployed site as an example:
 https://ui.dev/amiresponsive?url=https://boderg.github.io/the-bread-shed
 
-Screenshots for the README and testing should not be inside of `assets/` or `static/` image folders.
-(reminder: `assets/` and `static/` are for files used on the live site, not documentation)
-Consider adding a new folder called `documentation`, and add the amiresponsive screenshot inside of that folder.
-To add the image into your README, use this format:
-(assuming you have a new folder called `documentation` with an image called "mockup.png")
+
 
 ![screenshot](documentation/mockup.png)
+![screenshot](documentation/mockup-dark.png)
 
 Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
 Find out more about using Markdown elements here:
