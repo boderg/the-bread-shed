@@ -1,52 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="description"
-            content="Author: Simon Boylan, Web Designer: A simple site to display the menus of a delightful sandwich shop called The Bread Shed. ">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
-            integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
-            integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous">
-        </script>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Shadows+Into+Light&display=swap"
-            rel="stylesheet">
-        <script src="https://kit.fontawesome.com/ff8ea5c3d6.js" crossorigin="anonymous"></script>
-        <link rel="stylesheet" href="assets/css/style.css">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description"
+        content="Author: Simon Boylan, Web Designer: A simple site to display the menus of a delightful sandwich shop called The Bread Shed. ">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-KK94CHFLLe+nY2dmCWGMq91rCGa5gtU4mk92HdvYe+M/SXH301p5ILy+dN9+nJOZ" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-ENjdO4Dr2bkBIFxQpeoTz1HIcje39Wm4jDKdf19U8gI4ddQ3GYNS7NTKfAdVQSZe" crossorigin="anonymous">
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Concert+One&family=Shadows+Into+Light&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/ff8ea5c3d6.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>The Bread Shed</title>
+</head>
 
-        <title>The Bread Shed</title>
-    </head>
-
-    <body>
-        <!-- Responsive navbar -->
-        <!-- <nav class="navbar navbar-expand-lg pt-0">
-            <div class="container-fluid navbar">
-                <a class="navbar-brand ms-md-5 ms-sm-3 ms-xs-1 me-auto" href="index.html">The Bread Shed</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-options"
-                    aria-controls="nav-options" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="nav-options">
-                    <ul class="navbar-nav ms-auto me-5 mb-2 mb-lg-0"> -->
-
-                        <nav class="navbar">
-                            <div class="container-fluid">
-                              <a class="navbar-brand ms-md-5 ms-sm-3 ms-xs-1 me-auto" href="index.html">The Bread Shed</a>
-                              <button class="navbar-toggler mt-4" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
-                                <span class="navbar-toggler-icon"></span>
-                              </button>
-                              <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
-                                <div class="offcanvas-header">
-                                  <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Please view our menus below -</h5>
-                                  <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-                                </div>
-                                <div class="offcanvas-body">
-                                  <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+<body>
+    <!-- Responsive navbar -->
+    <nav class="navbar">
+        <div class="container-fluid">
+            <a class="navbar-brand ms-md-5 ms-sm-3 ms-xs-1 me-auto" href="index.html">The Bread Shed</a>
+            <button class="navbar-toggler mt-4" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar"
+                aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Please view our menus below -</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                         <li class="nav-item">
                             <a class="nav-link" href="sandwich-menu.html">Sandwich Menu</a>
                         </li>
@@ -62,100 +53,100 @@
                     </ul>
                 </div>
             </div>
-        </nav>
-        <section class="container-fluid">
-            <div class="row">
-                <div class="col-12 col-lg-10 mx-auto menu">
-                    <h2 class="menu-header text-center">Sandwich menu</h2>
-                    <h3 class="menu-sub-header text-center">Add salad items and condiments of your choice to any of our
-                        sandwiches below <br>
-                        Choose between Rye, Irish Soda, Classic Wholegrain or Farmhouse White breads</h3>
-                    <table class="table table-borderless">
-                        <thead>
-                            <tr>
-                                <th class="align-middle" scope="col">Option</th>
-                                <th class="align-middle" scope="col">Ingredients</th>
-                                <th class="align-middle" scope="col">Price</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            <tr>
-                                <th class="align-middle" scope="row">Breakfast Sandwich</th>
-                                <td class="align-middle">Sausage, bacon and eggs on the bread of your choice</td>
-                                <td class="align-middle price">£5.95</td>
+    </nav>
+    <section class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-lg-10 mx-auto menu">
+                <h2 class="menu-header text-center">Sandwich menu</h2>
+                <h3 class="menu-sub-header text-center">Add salad items and condiments of your choice to any of our
+                    sandwiches below <br>
+                    Choose between Rye, Irish Soda, Classic Wholegrain or Farmhouse White breads</h3>
+                <table class="table table-borderless">
+                    <thead>
+                        <tr>
+                            <th class="align-middle" scope="col">Option</th>
+                            <th class="align-middle" scope="col">Ingredients</th>
+                            <th class="align-middle" scope="col">Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <th class="align-middle" scope="row">Breakfast Sandwich</th>
+                            <td class="align-middle">Sausage, bacon and eggs on the bread of your choice</td>
+                            <td class="align-middle price">£5.95</td>
 
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Breakfast Muffin</th>
-                                <td class="align-middle">Sausage and egg or bacon and egg on an english muffin</td>
-                                <td class="align-middle price">£3.95</td>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Breakfast Muffin</th>
+                            <td class="align-middle">Sausage and egg or bacon and egg on an english muffin</td>
+                            <td class="align-middle price">£3.95</td>
 
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Chicken</th>
-                                <td class="align-middle">Just chicken on the bread of your choice (add some avocado for
-                                    50p extra)</td>
-                                <td class="align-middle price">£5.50</td>
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Chicken Salad</th>
-                                <td class="align-middle">Chicken and salad on the bread of your choice</td>
-                                <td class="align-middle price">£5.95</td>
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Cheese Ploughmans</th>
-                                <td class="align-middle">Mature cheddar with pickle on the bread of your choice</td>
-                                <td class="align-middle price">£4.95</td>
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Ham and Cheese</th>
-                                <td class="align-middle">Thick cut ham and mature cheddar on the bread of your choice
-                                </td>
-                                <td class="align-middle price">£4.95</td>
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Salt Beef</th>
-                                <td class="align-middle">Salt Beef on the bread of your choice</td>
-                                <td class="align-middle price">£5.95</td>
-                            </tr>
-                            <tr>
-                                <th class="align-middle" scope="row">Pastrami</th>
-                                <td class="align-middle">Pastrami on the bread of your choice</td>
-                                <td class="align-middle price">£5.95</td>
-                            </tr>
-                        </tbody>
-                    </table>
-                </div>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Chicken</th>
+                            <td class="align-middle">Just chicken on the bread of your choice (add some avocado for
+                                50p extra)</td>
+                            <td class="align-middle price">£5.50</td>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Chicken Salad</th>
+                            <td class="align-middle">Chicken and salad on the bread of your choice</td>
+                            <td class="align-middle price">£5.95</td>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Cheese Ploughmans</th>
+                            <td class="align-middle">Mature cheddar with pickle on the bread of your choice</td>
+                            <td class="align-middle price">£4.95</td>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Ham and Cheese</th>
+                            <td class="align-middle">Thick cut ham and mature cheddar on the bread of your choice
+                            </td>
+                            <td class="align-middle price">£4.95</td>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Salt Beef</th>
+                            <td class="align-middle">Salt Beef on the bread of your choice</td>
+                            <td class="align-middle price">£5.95</td>
+                        </tr>
+                        <tr>
+                            <th class="align-middle" scope="row">Pastrami</th>
+                            <td class="align-middle">Pastrami on the bread of your choice</td>
+                            <td class="align-middle price">£5.95</td>
+                        </tr>
+                    </tbody>
+                </table>
             </div>
-        </section>
-        <footer class="nav-social-copyright container-fluid">
-            <div class="row">
-                <div class="col-md-4 social-icons align-self-center text-center">
-                    <ul class="list-inline social-links">
-                        <li class="list-inline-item"><a href="http://www.facebook.com" target="_blank"><i
-                                    class="fa-brands fa-facebook" aria-hidden="true"></i><span
-                                    class="sr-only">Facebook</span></a>
-                        </li>
-                        <li class="list-inline-item"><a href="http://www.twitter.com" target="_blank"><i
-                                    class="fa-brands fa-twitter" aria-hidden="true"></i><span
-                                    class="sr-only">Twitter</span></a>
-                        </li>
-                        <li class="list-inline-item"><a href="http://www.pinterest.com" target="_blank"><i
-                                    class="fa-brands fa-pinterest" aria-hidden="true"></i><span
-                                    class="sr-only">Pinterest</span></a>
-                        </li>
-                        <li class="list-inline-item"><a href="http://www.instagram.com" target="_blank"><i
-                                    class="fa-brands fa-instagram" aria-hidden="true"></i><span
-                                    class="sr-only">Instagram</span></a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-4"></div>
-                <div class="col-md-4 align-self-center text-center author">
-                    <p><i class="fa-regular fa-copyright"></i> Copyright 2023 The Bread Shed</p>
-                </div>
+        </div>
+    </section>
+    <footer class="nav-social-copyright container-fluid">
+        <div class="row">
+            <div class="col-md-4 social-icons align-self-center text-center">
+                <ul class="list-inline social-links">
+                    <li class="list-inline-item"><a href="http://www.facebook.com" target="_blank"><i
+                                class="fa-brands fa-facebook" aria-hidden="true"></i><span
+                                class="sr-only">Facebook</span></a>
+                    </li>
+                    <li class="list-inline-item"><a href="http://www.twitter.com" target="_blank"><i
+                                class="fa-brands fa-twitter" aria-hidden="true"></i><span
+                                class="sr-only">Twitter</span></a>
+                    </li>
+                    <li class="list-inline-item"><a href="http://www.pinterest.com" target="_blank"><i
+                                class="fa-brands fa-pinterest" aria-hidden="true"></i><span
+                                class="sr-only">Pinterest</span></a>
+                    </li>
+                    <li class="list-inline-item"><a href="http://www.instagram.com" target="_blank"><i
+                                class="fa-brands fa-instagram" aria-hidden="true"></i><span
+                                class="sr-only">Instagram</span></a>
+                    </li>
+                </ul>
             </div>
-        </footer>
-    </body>
+            <div class="col-md-4"></div>
+            <div class="col-md-4 align-self-center text-center author">
+                <p><i class="fa-regular fa-copyright"></i> Copyright 2023 The Bread Shed</p>
+            </div>
+        </div>
+    </footer>
+</body>
 
 </html>
