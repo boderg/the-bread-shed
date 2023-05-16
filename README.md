@@ -1,59 +1,33 @@
 # THE BREAD SHED
 
-- The Bread Shed is sandwich shop that sells homemade sandwiches along with snacks and drinks. 
-- It is a place where anyone can grab a quick bite to eat for breakfast or lunch during their day. 
+- The Bread Shed is the bread and butter of everyones lunch, it is a sandwich shop that sells homemade sandwiches along with snacks and drinks. 
+- It is a place where anyone can grab a quick bite to eat for breakfast or lunch. 
 - The site is designed so that customers can view the menu and make a decision on what they might like to eat or drink before they arrive at the shop. 
 - The customer can also phone their order through so that it is pre-made and ready for them upon arrival at the store.
 - The Bread Shed website is designed with ease in mind and is divided into menu pages where the food items are seperated by type.
-- The target audience for this website is anyone that is looking for something to eat that is quick and easy to obtain and healthy to eat.
+- The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
 - Included below are two mockup images of The Bread Shed website.
-
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you will include a few paragraphs providing an overview of your project.
-Essentially, this part is your "sales pitch".
-
-At this stage, you should have a name for your project so use it!
-Don't introduce the project as a "portfolio project" for the diploma.
-
-In this section, describe what the project hopes to accomplish, who it is intended to target, and how it will be useful to the target audience.
-
-Consider adding a mockup image using the "Am I Responsive" website.
-Here's your deployed site as an example:
-https://ui.dev/amiresponsive?url=https://boderg.github.io/the-bread-shed
-
-
 
 ![screenshot](documentation/mockup.png)
 ![screenshot](documentation/mockup-dark.png)
 
-Note: Markdown files (.md) should not contain HTML elements like `img`, `br`, `div`, `a`, etc, only Markdown formatting.
-Find out more about using Markdown elements here:
-https://pandao.github.io/editor.md/en.html
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ## UX
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you will briefly explain your design processes.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+- The design was created initially as a series of wireframes covering mobile, tablet and desktop. 
+- It was designed with ease of use in mind and mobile use at the forefront. This is so users can view what is on offer while out and about.
+- Once the wireframe was created, the web pages were built with a clean look and ease of navigation in mind, so you are never more than two clicks from a menu.
 
 ### Colour Scheme
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- The colours chosen are Bisque and Black.
+- These two colours were chosen as they compliment each other and the aesthetic of the background image. They are also subtle and easy on the eye and have a good contrasting visiblity.
 
-Explain your colours and the colour scheme.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- `#000000` used for primary text.
-- `#E84610` used for primary highlights.
-- `#4A4A4F` used for secondary text.
-- `#009FE3` used for secondary highlights.
+- `rgba(0, 0, 0, 0.7)` used for primary text.
+- `rgba(255, 228, 196, 0.7)` used for primary highlights.
+- `rgba(0, 0, 0, 0.7)` used for secondary text.
+- `rgba(255, 228, 196, 0.7)` used for secondary highlights.
+- `rgba(0, 0, 0, 0.7)` used for borders.
+- `rgba(255, 228, 196, 0.6)`used for text backgrounds.
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
@@ -92,21 +66,15 @@ I've used CSS `:root` variables to easily update the global colour scheme by cha
 
 ### Typography
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- Two fonts were chosen from Google fonts as follows.
 
-Explain any fonts and icon libraries used, like Google Fonts and/or Font Awesome.
+- [Concert One](https://fonts.google.com/?query=concert+one) was used for the primary headers, titles and general text.
+This font was chosen for it's bold and rounded aesthetic.
 
-Consider adding a link to each font used, and the Font Awesome site if used (or similar icon library).
+- [Shadows Into Light](https://fonts.google.com/?query=shadows) was used for all menu text and text entry fields.
+This font was chosen for it's hand written aesthetic that I wanted to use for the menu items, portraying a hand written menu.
 
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- [Montserrat](https://fonts.google.com/specimen/Montserrat) was used for the primary headers and titles.
-
-- [Lato](https://fonts.google.com/specimen/Lato) was used for all other secondary text.
-
-- [Font Awesome](https://fontawesome.com) icons were used throughout the site, such as the social media icons in the footer.
+- [Font Awesome](https://fontawesome.com) icons were used throughout the site, specifically as the social media and copyright icons in the footer.
 
 ## User Stories
 
