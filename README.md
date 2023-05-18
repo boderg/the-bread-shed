@@ -8,19 +8,18 @@
 - The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
 - Included below are two mockup images of The Bread Shed website.
 
-![screenshot](documentation/mockup.png)
 ![screenshot](documentation/mockup-dark.png)
 
 ## UX
 
-- The design was created initially as a series of wireframes covering mobile, tablet and desktop. 
-- It was designed with ease of use in mind and mobile use at the forefront. This is so users can view what is on offer while out and about.
+- The design was created as a series of wireframes covering mobile, tablet and desktop to outlay the initial design thoughts and layout. 
+- It was designed with ease of use in mind and mobile use at the forefront. This is so users can view what is on offer while out and about or not near to a computer.
 - Once the wireframe was created, the web pages were built with a clean look and ease of navigation in mind, so you are never more than two clicks from a menu.
 
 ### Colour Scheme
 
 - The colours chosen are Bisque and Black.
-- These two colours were chosen as they compliment each other and the aesthetic of the background image. They are also subtle and easy on the eye and have a good contrasting visiblity.
+- These two colours were chosen as they compliment each other along with the aesthetic of the background image. They are also subtle, easy on the eye and have a good contrasting visiblity with each other.
 
 - `rgba(0, 0, 0, 0.7)` used for primary text.
 - `rgba(255, 228, 196, 0.7)` used for primary highlights.
