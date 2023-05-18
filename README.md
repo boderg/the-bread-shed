@@ -8,7 +8,8 @@
 - The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
 - Included below are two mockup images of The Bread Shed website.
 
-![screenshot](documentation/mockup-dark.png)
+![screenshot](documentation/mockup-light-bg.png)
+![screenshot](documentation/mockup-dark-bg.png)
 
 ## UX
 
@@ -28,41 +29,6 @@
 - `rgba(0, 0, 0, 0.7)` used for borders.
 - `rgba(255, 228, 196, 0.6)`used for text backgrounds.
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Consider adding a link and screenshot for your colour scheme using "coolors".
-https://coolors.co/generate
-
-When you add a colour to the palette, the URL is dynamically updated, making it easier for you to return back to your colour palette later if needed.
-
-Example:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I used [coolors.co](https://coolors.co/e84610-009fe3-4a4a4f-445261-d63649-e6ecf0-000000) to generate my colour palette.
-
-![screenshot](documentation/coolors.png)
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-If you've used CSS `:root` variables, consider also including a code snippet here!
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've used CSS `:root` variables to easily update the global colour scheme by changing only one value, instead of everywhere in the CSS file.
-
-```css
-:root {
-    /* P = Primary | S = Secondary */
-    --p-text: #000000;
-    --p-highlight: #E84610;
-    --s-text: #4A4A4F;
-    --s-highlight: #009FE3;
-    --white: #FFFFFF;
-    --black: #000000;
-}
-```
-
 ### Typography
 
 - Two fonts were chosen from Google fonts as follows.
@@ -77,45 +43,28 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 
 ## User Stories
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, list all of your user stories for the project.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ### New Site Users
 
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
-- As a new site user, I would like to ____________, so that I can ____________.
+- As a new site user, I would like to easily understand the main purpose of the site, so that I can learn more about what it has to offer.
+- As a new site user, I would like to easily navigate through the site, so that I can easily make a choice from what is on offer.
+- As a new site user, I would like to easily see what others think, so that I can decide if what is on offer will suit my tastes.
+- As a new site user, I would like to easily be able to see their social media interaction, so that I can see if the have any publicised offers or loyalty schemes.
 
 ### Returning Site Users
 
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
-- As a returning site user, I would like to ____________, so that I can ____________.
+- As a returning site user, I would like to find a good selection, so that I can try something different each time.
+- As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials.
+- As a returning site user, I would like to good value, so that I can feel satisfied without breaking the bank.
+- As a returning site user, I would like to wide range of drinks and snacks, so that I can compliment my meal choice.
 
 ### Site Admin
 
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
-- As a site administrator, I should be able to ____________, so that I can ____________.
+- As a site administrator, I should be able to easily navigate the site, so that I can make necessary alterations.
+- As a site administrator, I should be able to find what is needed, so that I can update menus.
+- As a site administrator, I should be able to maintain the site, so that I can remove any errors or bugs.
+- As a site administrator, I should be able to keep the site running, so that I can limit the downtime and unavailability to customers.
 
 ## Wireframes
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, display your wireframe screenshots using a Markdown `table`.
-
-Instructions on how to do Markdown `tables` start on line #213 on this site: https://pandao.github.io/editor.md/en.html
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
 I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
@@ -124,17 +73,17 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-home.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-home.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-home.png) |
+| Mobile | ![screenshot](documentation/wireframes/mobile-index.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-index.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-index.png) |
 
-### About Page Wireframes
+### Sandwich Menu Page Wireframes
 
 | Size | Screenshot |
 | --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-about.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-about.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-about.png) |
+| Mobile | ![screenshot](documentation/wireframes/mobile-sandwich-menu.png) |
+| Tablet | ![screenshot](documentation/wireframes/tablet-sandwich-menu.png) |
+| Desktop | ![screenshot](documentation/wireframes/desktop-sandwich-menu.png) |
 
 ### Contact Page Wireframes
 
