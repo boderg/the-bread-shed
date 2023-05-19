@@ -252,16 +252,25 @@ h4 {
 /*----------Footer----------*/
 
 footer {
-    color: rgba(0, 0, 0, 1);
+    color: #22333b;
     font-family: "Concert One", sans-serif;
-    margin: 30px 0;
-    -webkit-text-stroke: 0.25px rgba(255, 228, 196, 0.7);
+    background-color: #22333b60;
+    padding: 2em 0 1em 0;
 }
 
 .fa-brands {
-    color: rgba(0, 0, 0, 0.7);
+    color: #fbda92;
     font-size: xx-large;
-    -webkit-text-stroke: 0.5px rgba(255, 228, 196, 0.7);
+    padding: 2px;
+    -webkit-text-stroke: 0.5px #fbda92;
+}
+
+.fa-copyright {
+    color: #fbda92;
+}
+
+.copyright {
+    color: #fbda92;
 }
 
 /*----------Media queries----------*/
