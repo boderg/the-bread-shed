@@ -32,6 +32,7 @@ body {
     font-family: "Concert One", sans-serif;
     font-size: 50px;
     -webkit-text-stroke: 0.5px rgba(255, 228, 196, 0.7);
+    transition: all 0.2s ease-in-out;
 }
 
 .nav-link {
@@ -39,6 +40,7 @@ body {
     font-family: "Concert One", sans-serif;
     font-size: 25px;
     -webkit-text-stroke: 0.35px rgba(255, 228, 196, 0.7);
+    transition: all 0.2s ease-in-out;
 }
 
 .navbar-toggler {
@@ -175,6 +177,7 @@ h4 {
     padding-top: 10px;
     font-size: 20px;
     border: 1px solid rgba(0, 0, 0, 0.7);
+    font-weight: bold;
 }
 
 .contact-form {
@@ -231,6 +234,8 @@ h4 {
 .map-actual {
     border-radius: 7px;
     text-align: center;
+    height: 300px;
+    border: 1px solid rgba(0, 0, 0, 0.7);
 }
 
 /*----------Confirmation----------*/
@@ -286,13 +291,14 @@ footer {
 
 .navbar-brand:hover {
     color: rgba(255, 228, 196, 0.7);
-    font-size: 60px;
+    transform: scale(1.2);
     -webkit-text-stroke: 1px rgba(0, 0, 0, 0.7);
 }
 
 .nav-link:hover {
     color: rgba(255, 228, 196, 0.7);
-    font-size: xx-large;
+    transform: scale(1.2);
+    margin-left: 1.25em;
     -webkit-text-stroke: 1px rgba(0, 0, 0, 0.7);
 }
 
@@ -308,16 +314,17 @@ footer {
 }
 
 .about-offcanvas a:hover {
-    color: rgba(255, 228, 196, 0.7);
+    /* color: rgba(255, 228, 196, 1); */
     -webkit-text-stroke: 1px rgba(0, 0, 0, 0.7);
-    font-size: x-large;
+    transform: scale(1.2);
+    transition: all 0.2s ease-in-out;
 }
 
 /*----------About Us Offcanvas----------*/
 
 .about-offcanvas a {
     text-decoration: none;
-    color: rgba(0, 0, 0, 0.7);
+    color: rgba(0, 0, 0, 1);
     font-size: larger;
     background-color: rgba(255, 228, 196, 0.5);
     border: 1px solid rgba(0, 0, 0, 1);
