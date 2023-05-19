@@ -71,11 +71,9 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ### Home Page Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-index.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-index.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-index.png) |
+| Mobile | Tablet | Desktop |
+| --- | --- | --- |
+| ![screenshot](documentation/wireframes/mobile-index.png) | ![screenshot](documentation/wireframes/tablet-index.png) | ![screenshot](documentation/wireframes/desktop-index.png) |
 
 ### Sandwich Menu Page Wireframes
 
