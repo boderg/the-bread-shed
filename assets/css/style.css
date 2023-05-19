@@ -54,12 +54,18 @@ body {
     --bs-navbar-toggler-border-color: #fbda92;
 }
 
+/*----------Navbar Offcanvas----------*/
+
 .offcanvas-body {
     background-color: #fbda92b5;
 }
 
 .offcanvas-header {
     background-color: #fbda92b5;
+}
+
+.offcanvas-end {
+    opacity: 0.8;
 }
 
 /*----------Index heading----------*/
@@ -236,6 +242,7 @@ h4 {
     text-align: center;
     height: 300px;
     border: 1px solid #22333b;
+    opacity: 0.8;
 }
 
 /*----------Confirmation----------*/
@@ -320,11 +327,13 @@ footer {
 .send-btn:hover {
     background-color: #22333b;
     color: #fbda92;
+    transition: all 0.2s ease-in-out;
 }
 
 .about-offcanvas a:hover {
     color: #22333b; 
     -webkit-text-stroke: 0.5px #fbda92;  
+    transition: all 0.2s ease-in-out;
 }
 
 /*----------About Us Offcanvas----------*/
@@ -332,5 +341,9 @@ footer {
 .about-offcanvas a {
     text-decoration: none;
     color: #fbda92;
-    font-size: 25px;    
+    font-size: 25px;   
+}
+
+.offcanvas-bottom {
+    opacity: 0.7;
 }
