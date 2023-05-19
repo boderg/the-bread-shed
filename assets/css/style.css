@@ -86,7 +86,8 @@ h1 {
     margin: 0 0 100px 0;
 }
 
-.compliment-title, h5 {
+.compliment-title,
+h5 {
     font-family: "Concert One", sans-serif;
     color: rgba(0, 0, 0, 0.7);
 }
@@ -307,13 +308,18 @@ footer {
 
 .about-offcanvas a:hover {
     color: rgba(255, 228, 196, 0.7);
-    -webkit-text-stroke: 0.5px rgba(0, 0, 0, 0.7);
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.7);
+    font-size: x-large;
 }
 
 /*----------About Us Offcanvas----------*/
 
 .about-offcanvas a {
-text-decoration: none;
-color: rgba(0, 0, 0, 0.7);
-font-size: larger;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.7);
+    font-size: larger;
+    background-color: rgba(255, 228, 196, 0.5);
+    border: 1px solid rgba(0, 0, 0, 1);
+    border-radius: 5px;
+    padding: 5px;
 }
