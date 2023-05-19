@@ -1,8 +1,8 @@
 # THE BREAD SHED
 
-- The Bread Shed is the bread and butter of everyones lunch, it is a sandwich shop that sells homemade sandwiches along with snacks and drinks. 
-- It is a place where anyone can grab a quick bite to eat for breakfast or lunch. 
-- The site is designed so that customers can view the menu and make a decision on what they might like to eat or drink before they arrive at the shop. 
+- The Bread Shed is the bread and butter of everyones lunch, it is a sandwich shop that sells homemade sandwiches along with snacks and drinks.  
+- It is a place where anyone can grab a quick bite to eat for breakfast or lunch.  
+- The site is designed so that customers can view the menu and make a decision on what they might like to eat or drink before they arrive at the shop.  
 - The customer can also phone their order through so that it is pre-made and ready for them upon arrival at the store.
 - The Bread Shed website is designed with ease in mind and is divided into menu pages where the food items are seperated by type.
 - The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
@@ -13,7 +13,7 @@
 
 ## UX
 
-- The design was created as a series of wireframes covering mobile, tablet and desktop to outlay the initial design thoughts and layout. 
+- The design was created as a series of wireframes covering mobile, tablet and desktop to outlay the initial design thoughts and layout.  
 - It was designed with ease of use in mind and mobile use at the forefront. This is so users can view what is on offer while out and about or not near to a computer.
 - Once the wireframe was created, the web pages were built with a clean look and ease of navigation in mind, so you are never more than two clicks from a menu.
 
@@ -144,19 +144,19 @@ IMPORTANT: Remember to always include a screenshot of each individual feature!
 
 - **Title for feature #1**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature01.png)
 
 - **Title for feature #2**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature02.png)
 
 - **Title for feature #3**
 
-    - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
+  - Details about this particular feature, including the value to the site, and benefit for the user. Be as detailed as possible!
 
 ![screenshot](documentation/feature03.png)
 
@@ -180,11 +180,11 @@ Consider adding any helpful links or notes to help remind you in the future, if 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
 - Title for future feature #1
-    - Any additional notes about this feature.
+  - Any additional notes about this feature.
 - Title for future feature #2
-    - Any additional notes about this feature.
+  - Any additional notes about this feature.
 - Title for future feature #3
-    - Any additional notes about this feature.
+  - Any additional notes about this feature.
 
 ## Tools & Technologies Used
 
@@ -228,7 +228,8 @@ For all testing, please refer to the [TESTING.md](TESTING.md) file.
 ## Deployment
 
 The site was deployed to GitHub Pages. The steps to deploy are as follows:
-- In the [GitHub repository](https://github.com/boderg/the-bread-shed), navigate to the Settings tab 
+
+- In the [GitHub repository](https://github.com/boderg/the-bread-shed), navigate to the Settings tab,
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
@@ -242,13 +243,13 @@ This project can be cloned or forked in order to make a local copy on your own s
 
 You can clone the repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/boderg/the-bread-shed) 
-2. Locate the Code button above the list of files and click it 
+1. Go to the [GitHub repository](https://github.com/boderg/the-bread-shed)  
+2. Locate the Code button above the list of files and click it  
 3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash or Terminal
 5. Change the current working directory to the one where you want the cloned directory
 6. In your IDE Terminal, type the following command to clone my repository:
-	- `git clone https://github.com/boderg/the-bread-shed.git`
+    - `git clone https://github.com/boderg/the-bread-shed.git`
 7. Press Enter to create your local clone.
 
 Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
