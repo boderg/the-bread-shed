@@ -65,7 +65,24 @@ body {
 }
 
 .offcanvas-end {
-    opacity: 0.8;
+    opacity: 0.9;
+}
+
+/*----------Navbar card----------*/
+
+.card-title {
+    font-family: "Concert One", sans-serif;
+    color: #fbda92;
+}
+
+.card-text {
+    font-family: "Concert One", sans-serif;
+    color: #fbda92;
+}
+
+.card-body {
+    background-color: #22333b;
+    border-radius: 5px;
 }
 
 /*----------Index heading----------*/
@@ -345,5 +362,5 @@ footer {
 }
 
 .offcanvas-bottom {
-    opacity: 0.7;
+    opacity: 0.9;
 }
