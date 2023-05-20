@@ -8,7 +8,7 @@
 - The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
 - Included below are two mockup images of The Bread Shed website.
 
-### Mockup Screenshots
+## Mockup Screenshots
 
 | Light | Dark |
 | --- | --- |
