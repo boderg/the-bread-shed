@@ -306,9 +306,9 @@ footer {
 /*----------Hover----------*/
 
 .navbar-brand:hover {
-    color: #fbda92;
+    color: #22333b;
     transform: scale(1.2);
-    -webkit-text-stroke: 1.5px #22333b;
+    -webkit-text-stroke: 1.5px #fbda92;
 }
 
 .nav-link:hover {
