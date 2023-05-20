@@ -22,15 +22,18 @@
 
 ### Colour Scheme
 
-- The colours chosen are Bisque and Black.
+- The colours chosen are Peach Yellow (#fbda92) and Gunmetal (#22333b).
 - These two colours were chosen as they compliment each other along with the aesthetic of the background image. They are also subtle, easy on the eye and have a good contrasting visiblity with each other.
 
-- `rgba(0, 0, 0, 0.7)` used for primary text.
-- `rgba(255, 228, 196, 0.7)` used for primary highlights.
-- `rgba(0, 0, 0, 0.7)` used for secondary text.
-- `rgba(255, 228, 196, 0.7)` used for secondary highlights.
-- `rgba(0, 0, 0, 0.7)` used for borders.
-- `rgba(255, 228, 196, 0.6)`used for text backgrounds.
+- `Hex code #fbda92` used for primary text.
+- `Hex code #22333b` used for primary highlights.
+- `Hex code #fbda92` used for secondary text.
+- `Hex code #22333b` used for secondary highlights.
+- `Hex code #22333b` used for tertiary text.
+- `Hex code #fbda92` used for tertiary highlights.
+- `Hex code #22333b` used for borders.
+- `Hex code #fbda92ao` used for text backgrounds.
+- `Hex code #22333b60` used for footer background.
 
 ### Typography
 
