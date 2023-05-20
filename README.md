@@ -8,8 +8,11 @@
 - The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
 - Included below are two mockup images of The Bread Shed website.
 
-![screenshot](documentation/mockups/mockup-light-bg.png)
-![screenshot](documentation/mockups/mockup-dark-bg.png)
+### Mockup Screenshots
+
+| Light | Dark |
+| --- | --- |
+| ![screenshot](documentation/mockups/mockup-light-bg.png) | ![screenshot](documentation/mockups/mockup-dark-bg.png) |
 
 ## UX
 
@@ -75,53 +78,35 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 | --- | --- | --- |
 | ![screenshot](documentation/wireframes/mobile-index.png) | ![screenshot](documentation/wireframes/tablet-index.png) | ![screenshot](documentation/wireframes/desktop-index.png) |
 
-### Sandwich Menu Page Wireframes
+### Menu Pages Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-sandwich-menu.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-sandwich-menu.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-sandwich-menu.png) |
-
-### Drinks Menu Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-drinks-menu.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-drinks-menu.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-drinks-menu.png) |
-
-### Snacks Menu Page Wireframes
-
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-snacks-menu.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-snacks-menu.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-snacks-menu.png) |
+| Mobile | Tablet | Desktop |
+| --- | --- | --- |
+| ![screenshot](documentation/wireframes/mobile-sandwich-menu.png) | ![screenshot](documentation/wireframes/tablet-drinks-menu.png) | ![screenshot](documentation/wireframes/desktop-snacks-menu.png) |
 
 ### Contact Page Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-contact.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-contact.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-contact.png) |
+| Mobile | Tablet | Desktop |
+| --- | --- | --- |
+| ![screenshot](documentation/wireframes/mobile-contact.png) | ![screenshot](documentation/wireframes/tablet-contact.png) | ![screenshot](documentation/wireframes/desktop-contact.png) |
 
 ### Confirmation Page Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-confirmation.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-confirmation.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-confirmation.png) |
+| Mobile | Tablet | Desktop |
+| --- | --- | --- |
+| ![screenshot](documentation/wireframes/mobile-confirmation.png) | ![screenshot](documentation/wireframes/tablet-confirmation.png) | ![screenshot](documentation/wireframes/desktop-confirmation.png) |
 
-### Offcanvas Navbar Element Wireframes
+### Offcanvas Navbar Wireframes
 
-| Size | Screenshot |
-| --- | --- |
-| Mobile | ![screenshot](documentation/wireframes/mobile-offcanvas-navbar.png) |
-| Tablet | ![screenshot](documentation/wireframes/tablet-offcanvas-navbar.png) |
-| Desktop | ![screenshot](documentation/wireframes/desktop-offcanvas-navbar.png) |
+| Mobile | Tablet | Desktop |
+| --- | --- | --- |
+| ![screenshot](documentation/wireframes/mobile-offcanvas-navbar.png) | ![screenshot](documentation/wireframes/tablet-offcanvas-navbar.png) | ![screenshot](documentation/wireframes/desktop-offcanvas-navbar.png) |
+
+### Offcanvas About Us Wireframes
+
+| Mobile | Tablet | Desktop |
+| --- | --- | --- |
+| ![screenshot](documentation/wireframes/mobile-offcanvas-about.png) | ![screenshot](documentation/wireframes/tablet-offcanvas-about.png) | ![screenshot](documentation/wireframes/desktop-offcanvas-about.png) |
 
 ## Features
 
