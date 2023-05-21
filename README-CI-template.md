@@ -223,7 +223,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
   
     - Drinks Menu Background Photo by <a href="https://www.pexels.com/photo/full-filled-drinking-glass-on-table-2827637/">Shirley Tan</a> on <a href="https://www.pexels.com">Pexels</a>
 
-    - Snacks Menu Background Photo by <a href="https://www.pexels.com/photo/photo-of-stacked-cookies-4110541/">Polina Tankilevitch</a> on <a href="https://www.pexels.com">Pexels</a>
+    - Snacks Menu Background Photo by <a href="https://www.pexels.com/photo/photo-of-stacked-cookies-4110541/">Polina Tankilevitch</a> on <a href="https://www.pexels.com">Pexels</a>  
 
   - ### Acknowledgements
 
