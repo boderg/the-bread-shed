@@ -151,58 +151,61 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ![screenshot](documentation/features/about-us-offcanvas.png)
 
+- **The Sandwich Menu**
+
+  -The sandwich menu is where customers are able to view what sandwiches are on offer along with ingredients and prices. They are able to make an informed decision as to what they want in their sandwich and what type of bread to have it on. This menu uses the main background image of a sandwich.
+
+![screenshot](documentation/features/sandwich-menu.png)
+
+- **The Drinks Menu**
+
+  -The drinks menu is where customers are able to view what drinks are available along with varients and prices. They are able to make an informed decision as to what drink they want to have. This menu has an image of drinks as it's background to compliment it and add some dynamism to the site.
+
+![screenshot](documentation/features/drinks-menu.png)
+
+- **The Snacks Menu**
+
+  -The snacks menu is where customers are able view what snacks are avaialble along with varients and price. They are able to make an informed decision as to what snack they want to have. This menu has an image of some cookies as it's background to further compliment it and add another layer of dynamism to the site.
+
+![screenshot](documentation/features/snacks-menu.png)
+
+- **The Contact Form**
+
+  -The contact form is located on the contact page and is a means for customers to contact The Bread Shed and leave feedback, suggestions and comments. The customer (if they wish) is required to leave their name, email address and comment before the sumbit button will allow a message to be sent. Once sent the customer is taken to a confirmation page.
+
+![screenshot](documentation/features/contact-form.png)
+
+- **The Contact Address and Map**
+
+  -The contact address, phone number and map is located on the contact form page underneath the contact form. These details are so that the customer is able to find us and also ring through an order to us. The map is a google interactive map and thus enables the customer to get a better lock on our location.
+
+![screenshot](documentation/features/contact-map.png)
+
+- **The Confirmation Page**
+
+  -The confirmation page is a hidden page that is only accessed by completeing the contact form and has text thanking the customer for their feedback. This page is an automatic page and is set with a reset timer for 10 secs where it will then redirect back to the home page of The Bread Shed website. All navigation links are active on this page should the customer wish to speed up the return to any of the visible pages on the site. The timer is a meta located in the header of the confirmation page.
+
+![screenshot](documentation/features/confirmation.png)
+
 ### Future Features
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Do you have additional ideas that you'd like to include on your project in the future?
-Fantastic! List them here!
-It's always great to have plans for future improvements!
-Consider adding any helpful links or notes to help remind you in the future, if you revisit the project in a couple years.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-- Title for future feature #1
-  - Any additional notes about this feature.
-- Title for future feature #2
-  - Any additional notes about this feature.
-- Title for future feature #3
-  - Any additional notes about this feature.
+- Order Page
+  - I believe that and order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would alos free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
+- Payments Page
+  - A payment page would be beneficial so that customers that are in a hurry can order and pay all in one go and when ready just collect their order and go.
+- Delivery Options
+  - A delivery feature would also be a great time saver for those that are unable to leave their home or office.
 
 ## Tools & Technologies Used
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you should explain the various tools and technologies used to develop the project.
-Make sure to put a link (where applicable) to the source, and explain what each was used for.
-Some examples have been provided, but this is just a sample only, your project might've used others.
-Feel free to delete any unused items below as necessary.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [CSS :root variables](https://www.w3schools.com/css/css3_variables.asp) used for reusable styles throughout the site.
-- [CSS Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) used for an enhanced responsive layout.
-- [CSS Grid](https://www.w3schools.com/css/css_grid.asp) used for an enhanced responsive layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site.
-- [Python](https://www.python.org) used as the back-end programming language.
+- [JavaScript](https://www.javascript.com) used for user interaction on the site, note that javascript was only used in conjunction with Bootstrap.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
-- [Gitpod](https://gitpod.io) used as a cloud-based IDE for development.
+- [VSCode](https://code.visualstudio.com/) used as a local IDE for development.
 - [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Materialize](https://materializecss.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
-- [Flask](https://flask.palletsprojects.com) used as the Python framework for the site.
-- [Django](https://www.djangoproject.com) used as the Python framework for the site.
-- [MongoDB](https://www.mongodb.com) used as the non-relational database management with Flask.
-- [SQLAlchemy](https://www.sqlalchemy.org) used as the relational database management with Flask.
-- [PostgreSQL](https://www.postgresql.org) used as the relational database management.
-- [ElephantSQL](https://www.elephantsql.com) used as the Postgres database.
-- [Heroku](https://www.heroku.com) used for hosting the deployed back-end site.
-- [Cloudinary](https://cloudinary.com) used for online static file storage.
-- [Stripe](https://stripe.com) used for online secure payments of ecommerce products/services.
-- [AWS S3](https://aws.amazon.com/s3) used for online static file storage.
 
 ## Testing
 
@@ -214,7 +217,7 @@ The site was deployed to GitHub Pages. The steps to deploy are as follows:
 
 - In the [GitHub repository](https://github.com/boderg/the-bread-shed), navigate to the Settings tab,
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
-- The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+- The page will be automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found [here](https://boderg.github.io/the-bread-shed)
 
@@ -253,11 +256,7 @@ You can fork this repository by using the following steps:
 
 ### Local VS Deployment
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to discuss any differences between the local version you've developed, and the live deployment site on GitHub Pages.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
+No differences have been noted between the local and the deployed pages of The Bread Shed website.
 
 ## Credits
 
