@@ -133,9 +133,9 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ![screenshot](documentation/features/offcanvas-navigation-menu.png)
 
-- **The Social Media Navigation Links**
+- **The Social Media Links**
 
-  - The social media navigation links located at the bottom of each page utilise Font Awesome 6 icons that have been wrapped in a link so that they are clickable. Each link is directed to it's relevant social media site and opens in a new browser tab so that navigation of the accessed page is not lost. Each social media link is highlighted when hovered over to indicate to the user that it is the one being selected.
+  - The social media links located at the bottom of each page utilise Font Awesome 6 icons that have been wrapped in a link so that they are clickable. Each link is directed to it's relevant social media site and opens in a new browser tab so that navigation of the accessed page is not lost. Each social media link is highlighted when hovered over to indicate to the user that it is the one being selected.
 
 ![screenshot](documentation/features/social-media-links.png)
 
@@ -147,7 +147,9 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 - **The About Us Offcanvas**
 
-  - The about us off canvas element is triggered by clicking on About Us at the bottom of every page. This enables an offcanvas element to scroll up from the bottom of the page abd contains some information about the company.
+  - The about us off canvas element is triggered by clicking on About Us at the bottom of every page. This enables an offcanvas element to scroll up from the bottom of the page and contains some information about the company. The about us link also changes color when hovered over so the user knows that is what they are about to click to view.
+
+![screenshot](documentation/features/about-us-offcanvas.png)
 
 ### Future Features
 
