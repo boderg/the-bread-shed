@@ -221,7 +221,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
     - Main Background Photo by <a href="https://unsplash.com/ja/@monteverdo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Monteverdo Barnsley</a> on <a href="https://unsplash.com/photos/BXNctQYqPOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
-    - Drinks Menu Background Photo by <a href="https://www.pexels.com/photo/full-filled-drinking-glass-on-table-2827637/">Shirley Tan</a> on <a href="https://www.pexels.com">Pexels</a>
+    - Drinks Menu Background Photo by <a href="Pexels">Shirley Tan</a> on <a href="https://www.pexels.com">Pexels</a>
 
     - Snacks Menu Background Photo by <a href="https://www.pexels.com/photo/crunchy-butter-cookies-with-chocolate-chunks-9828785/">Hilal  Bülbül</a> on <a href="https://www.pexels.com">Pexels</a> 
 

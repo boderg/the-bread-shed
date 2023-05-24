@@ -200,12 +200,12 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
-- [JavaScript](https://www.javascript.com) used for user interaction on the site, note that javascript was only used in conjunction with Bootstrap.
+- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components utilising background javascript.
 - [Git](https://git-scm.com) used for version control. (`git add`, `git commit`, `git push`)
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [VSCode](https://code.visualstudio.com/) used as a local IDE for development.
-- [Bootstrap](https://getbootstrap.com) used as the front-end CSS framework for modern responsiveness and pre-built components.
+- [Krita](https://krita.org/en/) used for editing the background images and cropping screenshots.
 
 ## Testing
 
@@ -266,37 +266,28 @@ No differences have been noted between the local and the deployed pages of The B
 | --- | --- | --- |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
 | [Chris Beams](https://chris.beams.io/posts/git-commit) | version control | "How to Write a Git Commit Message" |
-| [Boostrap](https://getbootstrap.com/docs/5.3/components/navbar/) | entire site | responsive HTML/CSS/JS navbar |
+| [Bootstrap](https://getbootstrap.com/docs/5.3/components/navbar/) | entire site | responsive HTML/CSS/JS navbar |
 | [Bootstrap](https://getbootstrap.com/docs/5.3/components/carousel/) | home page | autoplaying carousel |
 | [Bootstrap](https://getbootstrap.com/docs/5.3/components/offcanvas/) | entire site | offcanvas elements |
 | [Bootstrap](https://getbootstrap.com/docs/5.3/components/card/) | entire site | card element |
 | [Bootstrap](https://getbootstrap.com/docs/5.3/content/tables/) | menu pages | table element |
+| [Bootstrap](https://getbootstrap.com/docs/5.3/forms/form-control/) | contact page | form element |
+| [Google Maps](https://goo.gl/maps/LB4WPhpZbBGpvSt1A) | contact page | interactive map |
 
 ### Media
 
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
-| [Pexels](https://www.pexels.com) | entire site | image | favicon on all pages |
-| [Lorem Picsum](https://picsum.photos) | home page | image | hero image background |
-| [Unsplash](https://unsplash.com) | product page | image | sample of fake products |
-| [Pixabay](https://pixabay.com) | gallery page | image | group of photos for gallery |
-| [Wallhere](https://wallhere.com) | footer | image | background wallpaper image in the footer |
-| [This Person Does Not Exist](https://thispersondoesnotexist.com) | testimonials | image | headshots of fake testimonial images |
-| [Audio Micro](https://www.audiomicro.com/free-sound-effects) | game page | audio | free audio files to generate the game sounds |
-| [Videvo](https://www.videvo.net/) | home page | video | background video on the hero section |
-| [TinyPNG](https://tinypng.com) | entire site | image | tool for image compression |
+| [Unsplash](https://unsplash.com/photos/BXNctQYqPOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) | home, contact and confirmation pages | image | background image, photo of a sandwich taken by Monteverdo Barnsley |
+| [Unsplash](https://unsplash.com/photos/pHeX8H9WQpY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) | sandwich menu page | image | background image, photo of a sandwich taken by Monika Grabkowska |
+| [Pexels](https://www.pexels.com/photo/full-filled-drinking-glass-on-table-2827637/) | drinks menu page | image | background image, photo of drinks taken by Shirley Tan |
+| [Pexels](https://www.pexels.com/photo/crunchy-butter-cookies-with-chocolate-chunks-9828785/) | snacks menu page | image | background image, photo of cookies taken by Hilal  Bülbül
 
 ### Acknowledgements
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to provide attribution to any supports that helped, encouraged, or supported you throughout the development stages of this project.
-A few examples have been provided below to give you some ideas.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
-- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some project issues.
-- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the moral support; it kept me going during periods of self doubt and imposter syndrome.
-- I would like to thank my partner (John/Jane), for believing in me, and allowing me to make this transition into software development.
-- I would like to thank my employer, for supporting me in my career development change towards becoming a software developer.
+- I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some IDE set up issues.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the support with the implementation of VSCode to work locally when the online IDE was running slow.
+- I would like to thank my CI facilitator Iris Smok for their invaluable learning timetables and feedback on my project.
+- I would like to thank my family, for believing in me, and allowing me to make this transition into software development.
+
