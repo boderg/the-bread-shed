@@ -54,6 +54,17 @@ body {
     background-color: #fbda92a0;
 }
 
+/* .contact-bg {
+    margin: 0;
+    padding: 0;
+    background-image: url("../images/shop-front.webp");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fbda92a0;
+} */
+
 /*----------Navbar----------*/
 
 .navbar {
