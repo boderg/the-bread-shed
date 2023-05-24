@@ -13,6 +13,17 @@ body>footer {
 body {
     margin: 0;
     padding: 0;
+    background-image: url("../images/sandwich-main.webp");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #fbda92a0;
+}
+
+.sandwich-menu-bg {
+    margin: 0;
+    padding: 0;
     background-image: url("../images/sandwich.webp");
     background-position: center top;
     background-repeat: no-repeat;
