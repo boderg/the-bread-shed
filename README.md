@@ -290,4 +290,3 @@ No differences have been noted between the local and the deployed pages of The B
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the support with the implementation of VSCode to work locally when the online IDE was running slow.
 - I would like to thank my CI facilitator Iris Smok for their invaluable learning timetables and feedback on my project.
 - I would like to thank my family, for believing in me, and allowing me to make this transition into software development.
-
