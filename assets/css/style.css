@@ -54,19 +54,6 @@ body {
     background-color: #fbda92a0;
 }
 
-/* .contact-bg {
-    margin: 0;
-    padding: 0;
-    background-image: url("../images/shop-front.webp");
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #fbda92a0;
-} */
-
-/*----------Navbar----------*/
-
 .navbar {
     width: 100%;
 }
@@ -87,9 +74,7 @@ body {
 }
 
 .navbar-toggler {
-    margin: 0 20px 10px 20px;
     --bs-navbar-toggler-border-color: #fbda92;
-    --bs-navbar-toggler-border-size: px;
     --bs-navbar-toggler-padding-x: 0.5rem;
 }
 
@@ -303,7 +288,6 @@ h4 {
     text-align: center;
     height: 300px;
     border: 1px solid #22333b;
-    opacity: 0.8;
 }
 
 /*----------Confirmation----------*/
