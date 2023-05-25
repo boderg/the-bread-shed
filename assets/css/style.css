@@ -74,7 +74,7 @@ body {
 .navbar-brand {
     color: #fbda92;
     font-family: "Concert One", sans-serif;
-    font-size: 50px;
+    font-size: 40px;
     -webkit-text-stroke: 1.5px #22333b;
     transition: all 0.2s ease-in-out;
 }
