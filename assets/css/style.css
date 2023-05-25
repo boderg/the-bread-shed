@@ -342,9 +342,9 @@ footer {
 }
 
 .css-valid-logo {
-    border:0;
-    width:66px;
-    height:23.25px
+    border: 0;
+    width: 66px;
+    height: 23.25px
 }
 
 /*----------Media queries----------*/
@@ -398,8 +398,8 @@ footer {
 }
 
 .about-offcanvas a:hover {
-    color: #22333b; 
-    -webkit-text-stroke: 0.5px #fbda92;  
+    color: #22333b;
+    -webkit-text-stroke: 0.5px #fbda92;
     transition: all 0.2s ease-in-out;
 }
 
@@ -408,7 +408,7 @@ footer {
 .about-offcanvas a {
     text-decoration: none;
     color: #fbda92;
-    font-size: 25px;   
+    font-size: 25px;
 }
 
 .offcanvas-bottom {
