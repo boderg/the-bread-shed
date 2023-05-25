@@ -362,6 +362,11 @@ footer {
     .address {
         width: 90%;
     }
+
+    h1 {
+        font-size: 300%;
+        -webkit-text-stroke-: 1px;
+    }
 }
 
 @media only screen and (min-width : 990px) {
