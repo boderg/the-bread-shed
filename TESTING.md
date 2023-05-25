@@ -1,34 +1,13 @@
 # Testing
 
 Return back to the [README.md](README.md) file.
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-In this section, you need to convince the assessors that you have conducted enough testing to legitimately believe that the site works well.
-Essentially, in this part, you should go over all of your project's features, and ensure that they all work as intended,
-with the project providing an easy and straightforward way for the users to achieve their goals.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ## Code Validation
-
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use the space to discuss code validation for any of your own code files (where applicable).
-You are not required to validate external libraries/frameworks, such as imported Bootstrap, Materialize, Font Awesome, etc.
-
-**IMPORTANT**: You must provide a screenshot for each file you validate.
-
-**PRO TIP**: Always validate the live site pages, not your local code. There could be subtle/hidden differences.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 ### HTML
 
 - I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
 - All files were validated using the live deployed site pages.
 - It was noted that all pages had the same error of 1 x closing div missing from the nav section. This was due to the code being re-used from the index file before correction.
-- The confirmation page had an space missing from content in the refresh meta tag.
+- The confirmation page had a space missing from content in the refresh meta tag.
 - All errors have been corrected as shown in the table below.
 
 | Page | W3C URL | Screenshot errors | Screenshot fixed | Notes |
@@ -44,8 +23,8 @@ You are not required to validate external libraries/frameworks, such as imported
 
 - I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 - The screenshot shows a pass in relation to the css file that was validated by copy and paste method.
-- The copy and paste method was used because the validator is trying to validate all of the bootstrap that has been used.
-- The link is for the URL test method and showws amny warnings due to the bootstrap elements and vendor specific styles used.
+- The copy and paste method was used because the validator is trying to validate the bootstrap elements that have been used.
+- The link is for the URL test method and shows many warnings due to the bootstrap elements and vendor specific styles used.
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
