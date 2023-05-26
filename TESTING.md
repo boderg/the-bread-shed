@@ -12,12 +12,12 @@ Return back to the [README.md](README.md) file.
 
 | Page | W3C URL | Screenshot errors | Screenshot fixed | Notes |
 | --- | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F) | ![screenshot](documentation/testing-screenshots/home-validation-errors.png) | ![screenshot](documentation/testing-screenshots/home-validation-fixed.png) | closing div tag missing from nav section - fixed |
-| Sandwich Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsandwich-menu.html) | ![screenshot](documentation/testing-screenshots/sandwich-menu-validation-errors.png) | ![screenshot](documentation/testing-screenshots/sandwich-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Drinks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fdrinks-menu.html) | ![screenshot](documentation/testing-screenshots/drinks-menu-validation-errors.png) | ![screenshot](documentation/testing-screenshots/drinks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Snacks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsnacks-menu.html) | ![screenshot](documentation/testing-screenshots/snacks-menu-validation-errors.png) | ![screenshot](documentation/testing-screenshots/snacks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fcontact.html) | ![screenshot](documentation/testing-screenshots/contact-page-validation-errors.png) | ![screenshot](documentation/testing-screenshots/contact-page-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%3F) | ![screenshot](documentation/testing-screenshots/confirmation-page-validation-errors.png) | ![screenshot](documentation/testing-screenshots/confirmation-page-validation-fixed.png) | closing div tag missing from nav section and space missing from content descriptor in refresh meta tag - fixed  |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F) | ![screenshot](documentation/validation-testing-screenshots/html-validation/home-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/home-validation-fixed.png) | closing div tag missing from nav section - fixed |
+| Sandwich Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsandwich-menu.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/sandwich-menu-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/sandwich-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Drinks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fdrinks-menu.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/drinks-menu-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/drinks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Snacks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsnacks-menu.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/snacks-menu-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/snacks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fcontact.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/contact-page-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/contact-page-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%3F) | ![screenshot](documentation/validation-testing-screenshots/html-validation/confirmation-page-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/confirmation-page-validation-fixed.png) | closing div tag missing from nav section and space missing from content descriptor in refresh meta tag - fixed  |
 
 ### CSS
 
@@ -28,46 +28,22 @@ Return back to the [README.md](README.md) file.
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/testing-screenshots/css-validation.png) | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/validation-testing-screenshots/css-validation.png) | Pass: No Errors |
 
 ## Browser Compatibility
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- I've tested my deployed project on multiple browsers to check for compatibility issues.
+- As well as checking for page functionality, all social links were tested to ensure they open in new tabs.
+- Each page was tested and a screenshot taken in each of the browsers below. A representation of this is shown in the table below.
 
-Use this space to discuss testing the live/deployed site on various browsers.
+| Browser | Screenshot 1 | Screenshot 2 | Notes |
+| --- | --- | --- | --- |
+| [Brave](https://brave.com/download) | ![screenshot](documentation/browser-testing-screenshots/brave-screenshots/brave-home-page.png) | ![screenshot](documentation/browser-testing-screenshots/brave-screenshots/brave-offcanvas-about.png) | Works as expected |
+| [Chrome](https://www.google.com/chrome) | ![screenshot](documentation/browser-testing-screenshots/chrome-screenshots/chrome-offcanvas-menu.png) | ![screenshot](documentation/browser-testing-screenshots/chrome-screenshots/chrome-sandwich-menu.png) | Works as expected |
+| [Edge](https://www.microsoft.com/edge) | ![screenshot](documentation/browser-testing-screenshots/edge%20-screenshots/edge-drinks-menu.png) | ![screenshot](documentation/browser-testing-screenshots/edge%20-screenshots/edge-snacks-menu.png) | Works as expected |
+| [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer) | ![screenshot](documentation/browser-testing-screenshots/firefox-screenshots/firefoc-contact-top.png) | ![screenshot](documentation/browser-testing-screenshots/firefox-screenshots/firefox-contact-bottom.png) | Works as expected |
+| [Opera](https://www.opera.com/download) | ![screenshot](documentation/browser-testing-screenshots/opera-screenshots/opera-confirmation.png) | ![screenshot](documentation/browser-testing-screenshots/opera-screenshots/opera-target-blank-links.png) | Works as expected |
 
-Consider testing at least 3 different browsers, if available on your system.
-
-Recommended browsers to consider:
-- [Chrome](https://www.google.com/chrome)
-- [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer)
-- [Edge](https://www.microsoft.com/edge)
-- [Safari](https://support.apple.com/downloads/safari)
-- [Brave](https://brave.com/download)
-- [Opera](https://www.opera.com/download)
-
-**IMPORTANT**: You must provide screenshots of the tested browsers, to "prove" that you've actually tested them.
-
-Please note, there are services out there that can test multiple browser compatibilities at the same time.
-Some of these are paid services, but some are free.
-If you use these, you must provide a link to the source used for attribution, and multiple screenshots of the results.
-
-Sample browser testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've tested my deployed project on multiple browsers to check for compatibility issues.
-
-| Browser | Screenshot | Notes |
-| --- | --- | --- |
-| Chrome | ![screenshot](documentation/browser-chrome.png) | Works as expected |
-| Firefox | ![screenshot](documentation/browser-firefox.png) | Works as expected |
-| Edge | ![screenshot](documentation/browser-edge.png) | Works as expected |
-| Safari | ![screenshot](documentation/browser-safari.png) | Minor CSS differences |
-| Brave | ![screenshot](documentation/browser-brave.png) | Works as expected |
-| Opera | ![screenshot](documentation/browser-opera.png) | Minor differences |
-| Internet Explorer | ![screenshot](documentation/browser-iex.png) | Does not work as expected |
-| x | x | repeat for any other tested browsers |
 
 ## Responsiveness
 
