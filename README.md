@@ -72,8 +72,8 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 
 ## Wireframes
 
- - To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
- - I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+- To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+- I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Home Page Wireframes
 
