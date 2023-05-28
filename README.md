@@ -72,8 +72,8 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 
 ## Wireframes
 
-To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
-I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+ - To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
+ - I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
 
 ### Home Page Wireframes
 
@@ -114,6 +114,8 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 ## Features
 
 ### Existing Features
+
+The following are existing features of The Bread Shed site along with descriptions and screenshots:
 
 - **The Bread Shed Navigation Header**
 
@@ -189,6 +191,8 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
 
 ### Future Features
 
+The following are future features to be implemented into The Bread Shed site:
+
 - Order Page
   - I believe that and order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would alos free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
 - Payments Page
@@ -197,6 +201,8 @@ I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wirefram
   - A delivery feature would also be a great time saver for those that are unable to leave their home or office.
 
 ## Tools & Technologies Used
+
+The following tools were used in the creation of The Bread Shed site:
 
 - [HTML](https://en.wikipedia.org/wiki/HTML) used for the main site content.
 - [CSS](https://en.wikipedia.org/wiki/CSS) used for the main site design and layout.
@@ -262,6 +268,8 @@ No differences have been noted between the local and the deployed pages of The B
 
 ### Content
 
+The following content was used in the creation of The Bread Shed site:
+
 | Source | Location | Notes |
 | --- | --- | --- |
 | [Markdown Builder](https://traveltimn.github.io/markdown-builder) | README and TESTING | tool to help generate the Markdown files |
@@ -276,12 +284,14 @@ No differences have been noted between the local and the deployed pages of The B
 
 ### Media
 
+The fullscreen hero images used on The Bread Shed site are attributed to the following:
+
 | Source | Location | Type | Notes |
 | --- | --- | --- | --- |
 | [Unsplash](https://unsplash.com/photos/BXNctQYqPOc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) | home, contact and confirmation pages | image | background image, photo of a sandwich taken by Monteverdo Barnsley |
 | [Unsplash](https://unsplash.com/photos/pHeX8H9WQpY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) | sandwich menu page | image | background image, photo of a sandwich taken by Monika Grabkowska |
 | [Pexels](https://www.pexels.com/photo/full-filled-drinking-glass-on-table-2827637/) | drinks menu page | image | background image, photo of drinks taken by Shirley Tan |
-| [Pexels](https://www.pexels.com/photo/crunchy-butter-cookies-with-chocolate-chunks-9828785/) | snacks menu page | image | background image, photo of cookies taken by Hilal  Bülbül
+| [Pexels](https://www.pexels.com/photo/crunchy-butter-cookies-with-chocolate-chunks-9828785/) | snacks menu page | image | background image, photo of cookies taken by Hilal Bülbül |
 
 ### Acknowledgements
 
