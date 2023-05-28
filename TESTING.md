@@ -1,7 +1,9 @@
 # Testing
 
 Return back to the [README.md](README.md) file.
+
 ## Code Validation
+
 ### HTML
 
 - I have used the recommended [HTML W3C Validator](https://validator.w3.org) to validate all of my HTML files.
@@ -44,7 +46,6 @@ Return back to the [README.md](README.md) file.
 | [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer) | ![screenshot](documentation/browser-testing-screenshots/firefox-screenshots/firefoc-contact-top.png) | ![screenshot](documentation/browser-testing-screenshots/firefox-screenshots/firefox-contact-bottom.png) | Works as expected |
 | [Opera](https://www.opera.com/download) | ![screenshot](documentation/browser-testing-screenshots/opera-screenshots/opera-confirmation.png) | ![screenshot](documentation/browser-testing-screenshots/opera-screenshots/opera-target-blank-links.png) | Works as expected |
 
-
 ## Responsiveness
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
@@ -52,6 +53,7 @@ Return back to the [README.md](README.md) file.
 Use this space to discuss testing the live/deployed site on various device sizes.
 
 The minimum requirement is for the following 3 tests:
+
 - Mobile
 - Tablet
 - Desktop
@@ -154,31 +156,31 @@ For JavaScript and Python applications, it's best to screenshot the errors to in
 
     ![screenshot](documentation/bug01.png)
 
-    - To fix this, I _____________________.
+  - To fix this, I _____________________.
 
 - JS `'let'` or `'const'` or `'template literal syntax'` or `'arrow function syntax (=>)'` is available in ES6 (use `'esversion: 11'`) or Mozilla JS extensions (use moz).
 
     ![screenshot](documentation/bug02.png)
 
-    - To fix this, I _____________________.
+  - To fix this, I _____________________.
 
 - Python `'ModuleNotFoundError'` when trying to import module from imported package
 
     ![screenshot](documentation/bug03.png)
 
-    - To fix this, I _____________________.
+  - To fix this, I _____________________.
 
 - Django `TemplateDoesNotExist` at /appname/path appname/template_name.html
 
     ![screenshot](documentation/bug04.png)
 
-    - To fix this, I _____________________.
+  - To fix this, I _____________________.
 
 - Python `E501 line too long` (93 > 79 characters)
 
     ![screenshot](documentation/bug04.png)
 
-    - To fix this, I _____________________.
+  - To fix this, I _____________________.
 
 ### GitHub **Issues**
 
@@ -186,7 +188,7 @@ For JavaScript and Python applications, it's best to screenshot the errors to in
 
 An improved way to manage bugs is to use the built-in **Issues** tracker on your GitHub repository.
 To access your Issues, click on the "Issues" tab at the top of your repository.
-Alternatively, use this link: https://github.com/boderg/the-bread-shed/issues
+Alternatively, use this link: `https://github.com/boderg/the-bread-shed/issues`
 
 If using the Issues tracker for your bug management, you can simplify the documentation process.
 Issues allow you to directly paste screenshots into the issue without having to first save the screenshot locally,
@@ -200,7 +202,7 @@ When showcasing your bug tracking for assessment, you can use the following form
 
 🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
 
-**Fixed Bugs**
+### Fixed Bugs
 
 All previously closed/fixed bugs can be tracked [here](https://github.com/boderg/the-bread-shed/issues?q=is%3Aissue+is%3Aclosed).
 
@@ -210,7 +212,7 @@ All previously closed/fixed bugs can be tracked [here](https://github.com/boderg
 | [Python `'ModuleNotFoundError'` when trying to import module from imported package](https://github.com/boderg/the-bread-shed/issues/2) | Closed |
 | [Django `TemplateDoesNotExist` at /appname/path appname/template_name.html](https://github.com/boderg/the-bread-shed/issues/3) | Closed |
 
-**Open Issues**
+### Open Issues
 
 Any remaining open issues can be tracked [here](https://github.com/boderg/the-bread-shed/issues).
 
@@ -240,19 +242,19 @@ Some examples:
 
     ![screenshot](documentation/unfixed-bug01.png)
 
-    - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
+  - Attempted fix: I tried to add additional media queries to handle this, but things started becoming too small to read.
 
 - For PP3, when using a helper `clear()` function, any text above the height of the terminal does not clear, and remains when you scroll up.
 
     ![screenshot](documentation/unfixed-bug02.png)
 
-    - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
+  - Attempted fix: I tried to adjust the terminal size, but it only resizes the actual terminal, not the allowable area for text.
 
 - When validating HTML with a semantic `section` element, the validator warns about lacking a header `h2-h6`. This is acceptable.
 
     ![screenshot](documentation/unfixed-bug03.png)
 
-    - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
+  - Attempted fix: this is a known warning and acceptable, and my section doesn't require a header since it's dynamically added via JS.
 
 ⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
 
