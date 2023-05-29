@@ -48,40 +48,17 @@ Return back to the [README.md](README.md) file.
 
 ## Responsiveness
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
+- I've tested my deployed project on multiple devices to check for responsiveness issues.
+- The devices tested on were presets within devtools in the chrome browser along with my own personal Samsung Galaxy S10+, 1080p standard monitor and 1440p ultrawide monitor.
 
-Use this space to discuss testing the live/deployed site on various device sizes.
-
-The minimum requirement is for the following 3 tests:
-
-- Mobile
-- Tablet
-- Desktop
-
-**IMPORTANT**: You must provide screenshots of the tested responsiveness, to "prove" that you've actually tested them.
-
-Using the "amiresponsive" mockup image (or similar) does not suffice the requirements.
-Consider using some of the built-in device sizes in the Developer Tools.
-
-If you have tested the project on your actual mobile phone or tablet, consider also including screenshots of these as well.
-It showcases a higher level of manual tests, and can be seen as a positive inclusion!
-
-Sample responsiveness testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've tested my deployed project on multiple devices to check for responsiveness issues.
-
-| Device | Screenshot | Notes |
-| --- | --- | --- |
-| Mobile (DevTools) | ![screenshot](documentation/responsive-mobile.png) | Works as expected |
-| Tablet (DevTools) | ![screenshot](documentation/responsive-tablet.png) | Works as expected |
-| Desktop | ![screenshot](documentation/responsive-desktop.png) | Works as expected |
-| XL Monitor | ![screenshot](documentation/responsive-xl.png) | Scaling starts to have minor issues |
-| 4K Monitor | ![screenshot](documentation/responsive-4k.png) | Noticeable scaling issues |
-| Google Pixel 7 Pro | ![screenshot](documentation/responsive-pixel.png) | Works as expected |
-| iPhone 14 | ![screenshot](documentation/responsive-iphone.png) | Works as expected |
-| x | x | repeat for any other tested sizes |
+| Device | Screenshot | Screenshot | Notes |
+| --- | --- | --- | --- |
+| Mobile iPhone SE (DevTools) | ![screenshot](documentation/dev-tools-screenshots/responsive-home-top-mobile.png) | ![screenshot](documentation/dev-tools-screenshots/responsive-home-bottom-mobile.png) | Works as expected |
+| Tablet iPad Air (DevTools) | ![screenshot](documentation/dev-tools-screenshots/responsive-nav-tablet.png) | ![screenshot](documentation/dev-tools-screenshots/repsonsive-about-tablet.png) | Works as expected |
+| Desktop (DevTools)| ![screenshot](documentation/dev-tools-screenshots/responsive-sandwich-desktop.png) | ![screenshot](documentation/dev-tools-screenshots/responsive-drinks-desktop.png) | Works as expected |
+| Standard 1080p 16:9 Monitor | ![screenshot](documentation/) | ![screenshot](documentation/) | Works as expected |
+| XL Monitor 1440p 21:9 Ultrawide | ![screenshot](documentation/) | ![screenshot](documentation/) | Works as expected |
+| Samsung Galaxy S10+ (my personal mobile) | ![screenshot](documentation/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-home.jpg) | ![screenshot](documentation/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-confirmation.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
