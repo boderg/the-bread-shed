@@ -32,8 +32,8 @@
 - `Hex code #22333b` used for tertiary text.
 - `Hex code #fbda92` used for tertiary highlights.
 - `Hex code #22333b` used for borders.
-- `Hex code #fbda92ao` used for text backgrounds.
-- `Hex code #22333b60` used for footer background.
+- `Hex code #fbda92ba` used for text backgrounds.
+- `Hex code #22333bca` used for footer background.
 
 ### Typography
 
