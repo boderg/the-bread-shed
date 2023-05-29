@@ -211,7 +211,7 @@ The following tools were used in the creation of The Bread Shed site:
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [VSCode](https://code.visualstudio.com/) used as a local IDE for development.
-- [Krita](https://krita.org/en/) used for editing the background images and cropping screenshots.
+- [Krita](https://krita.org/en/) used for cropping and editing the background images and screenshots.
 
 ## Testing
 
@@ -298,5 +298,5 @@ The fullscreen hero images used on The Bread Shed site are attributed to the fol
 - I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some IDE set up issues.
 - I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the support with the implementation of VSCode to work locally when the online IDE was running slow.
-- I would like to thank my CI facilitator Iris Smok for their invaluable learning timetables and feedback on my project.
+- I would like to thank my CI facilitator Iris Smok for their effective learning timetables and feedback on my project.
 - I would like to thank my family, for believing in me, and allowing me to make this transition into software development.
