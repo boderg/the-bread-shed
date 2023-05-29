@@ -133,7 +133,7 @@ h1 {
 /*----------Carousel----------*/
 
 .carousel {
-    background-color: #fbda92a0;
+    background-color: #fbda92ba;
     border-radius: 7px;
     border: 1px solid #22333b;
     margin: 0 0 100px 0;
@@ -169,7 +169,7 @@ h2 {
 }
 
 .menu {
-    background-color: #fbda92a0;
+    background-color: #fbda92ba;
     border: solid 1px #22333b;
     border-radius: 7px;
 }
@@ -259,7 +259,7 @@ h4 {
 }
 
 .contact-head {
-    background-color: #fbda92a0;
+    background-color: #fbda92ba;
     width: -moz-fit-content;
     width: fit-content;
     border: 1px solid #22333b;
@@ -293,7 +293,7 @@ h4 {
 /*----------Confirmation----------*/
 
 .confirm-head {
-    background-color: #fbda92a0;
+    background-color: #fbda92ba;
     width: -moz-fit-content;
     width: fit-content;
     border: 1px solid #22333b;
@@ -306,7 +306,7 @@ h4 {
 footer {
     color: #22333b;
     font-family: "Concert One", sans-serif;
-    background-color: #22333bac;
+    background-color: #22333bca;
     padding: 2em 0 1em 0;
 }
 
@@ -335,7 +335,7 @@ footer {
 
 @media only screen and (max-width : 990px) {
     .navbar-collapse {
-        background: #fbda92a0;
+        background: #fbda92ba;
         padding-left: 20px;
     }
 
