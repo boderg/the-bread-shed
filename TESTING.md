@@ -14,12 +14,12 @@ Return back to the [README.md](README.md) file.
 
 | Page | W3C URL | Screenshot errors | Screenshot fixed | Notes |
 | --- | --- | --- | --- | --- |
-| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F) | ![screenshot](documentation/validation-testing-screenshots/html-validation/home-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/home-validation-fixed.png) | closing div tag missing from nav section - fixed |
-| Sandwich Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsandwich-menu.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/sandwich-menu-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/sandwich-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Drinks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fdrinks-menu.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/drinks-menu-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/drinks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Snacks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsnacks-menu.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/snacks-menu-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/snacks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fcontact.html) | ![screenshot](documentation/validation-testing-screenshots/html-validation/contact-page-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/contact-page-validation-fixed.png) | closing div tag missing from nav section - fixed  |
-| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%3F) | ![screenshot](documentation/validation-testing-screenshots/html-validation/confirmation-page-validation-errors.png) | ![screenshot](documentation/validation-testing-screenshots/html-validation/confirmation-page-validation-fixed.png) | closing div tag missing from nav section and space missing from content descriptor in refresh meta tag - fixed  |
+| Home | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F) | ![screenshot](documentation/validation/html-validation/home-validation-errors.png) | ![screenshot](documentation/validation/html-validation/home-validation-fixed.png) | closing div tag missing from nav section - fixed |
+| Sandwich Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsandwich-menu.html) | ![screenshot](documentation/validation/html-validation/sandwich-menu-validation-errors.png) | ![screenshot](documentation/validation/html-validation/sandwich-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Drinks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fdrinks-menu.html) | ![screenshot](documentation/validation/html-validation/drinks-menu-validation-errors.png) | ![screenshot](documentation/validation/html-validation/drinks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Snacks Menu | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fsnacks-menu.html) | ![screenshot](documentation/validation/html-validation/snacks-menu-validation-errors.png) | ![screenshot](documentation/validation/html-validation/snacks-menu-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Contact | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2Fcontact.html) | ![screenshot](documentation/validation/html-validation/contact-page-validation-errors.png) | ![screenshot](documentation/validation/html-validation/contact-page-validation-fixed.png) | closing div tag missing from nav section - fixed  |
+| Confirmation | [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%3F) | ![screenshot](documentation/validation/html-validation/confirmation-page-validation-errors.png) | ![screenshot](documentation/validation/html-validation/confirmation-page-validation-fixed.png) | closing div tag missing from nav section and space missing from content descriptor in refresh meta tag - fixed  |
 
 ### CSS
 
@@ -30,7 +30,7 @@ Return back to the [README.md](README.md) file.
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
-| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/validation-testing-screenshots/css-validation.png) | Pass: No Errors |
+| style.css | [Jigsaw](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fboderg.github.io%2Fthe-bread-shed%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en) | ![screenshot](documentation/validation/css-validation.png) | Pass: No Errors |
 
 ## Browser Compatibility
 
@@ -40,11 +40,11 @@ Return back to the [README.md](README.md) file.
 
 | Browser | Screenshot 1 | Screenshot 2 | Notes |
 | --- | --- | --- | --- |
-| [Brave](https://brave.com/download) | ![screenshot](documentation/browser-testing-screenshots/brave-screenshots/brave-home-page.png) | ![screenshot](documentation/browser-testing-screenshots/brave-screenshots/brave-offcanvas-about.png) | Works as expected |
-| [Chrome](https://www.google.com/chrome) | ![screenshot](documentation/browser-testing-screenshots/chrome-screenshots/chrome-offcanvas-menu.png) | ![screenshot](documentation/browser-testing-screenshots/chrome-screenshots/chrome-sandwich-menu.png) | Works as expected |
-| [Edge](https://www.microsoft.com/edge) | ![screenshot](documentation/browser-testing-screenshots/edge%20-screenshots/edge-drinks-menu.png) | ![screenshot](documentation/browser-testing-screenshots/edge%20-screenshots/edge-snacks-menu.png) | Works as expected |
-| [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer) | ![screenshot](documentation/browser-testing-screenshots/firefox-screenshots/firefoc-contact-top.png) | ![screenshot](documentation/browser-testing-screenshots/firefox-screenshots/firefox-contact-bottom.png) | Works as expected |
-| [Opera](https://www.opera.com/download) | ![screenshot](documentation/browser-testing-screenshots/opera-screenshots/opera-confirmation.png) | ![screenshot](documentation/browser-testing-screenshots/opera-screenshots/opera-target-blank-links.png) | Works as expected |
+| [Brave](https://brave.com/download) | ![screenshot](documentation/browser-compatibility/brave-screenshots/brave-home-page.png) | ![screenshot](documentation/browser-compatibility/brave-screenshots/brave-offcanvas-about.png) | Works as expected |
+| [Chrome](https://www.google.com/chrome) | ![screenshot](documentation/browser-compatibility/chrome-screenshots/chrome-offcanvas-menu.png) | ![screenshot](documentation/browser-compatibility/chrome-screenshots/chrome-sandwich-menu.png) | Works as expected |
+| [Edge](https://www.microsoft.com/edge) | ![screenshot](documentation/browser-compatibility/edge%20-screenshots/edge-drinks-menu.png) | ![screenshot](documentation/browser-compatibility/edge%20-screenshots/edge-snacks-menu.png) | Works as expected |
+| [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer) | ![screenshot](documentation/browser-compatibility/firefox-screenshots/firefoc-contact-top.png) | ![screenshot](documentation/browser-compatibility/firefox-screenshots/firefox-contact-bottom.png) | Works as expected |
+| [Opera](https://www.opera.com/download) | ![screenshot](documentation/browser-compatibility/opera-screenshots/opera-confirmation.png) | ![screenshot](documentation/browser-compatibility/opera-screenshots/opera-target-blank-links.png) | Works as expected |
 
 ## Responsiveness
 
@@ -53,12 +53,12 @@ Return back to the [README.md](README.md) file.
 
 | Device | Screenshot | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Mobile iPhone SE (DevTools) | ![screenshot](documentation/dev-tools-screenshots/responsive-home-top-mobile.png) | ![screenshot](documentation/dev-tools-screenshots/responsive-home-bottom-mobile.png) | Works as expected |
-| Tablet iPad Air (DevTools) | ![screenshot](documentation/dev-tools-screenshots/responsive-nav-tablet.png) | ![screenshot](documentation/dev-tools-screenshots/repsonsive-about-tablet.png) | Works as expected |
-| Desktop (DevTools)| ![screenshot](documentation/dev-tools-screenshots/responsive-sandwich-desktop.png) | ![screenshot](documentation/dev-tools-screenshots/responsive-drinks-desktop.png) | Works as expected |
-| Standard 1080p 16:9 Monitor | ![screenshot](documentation/) | ![screenshot](documentation/) | Works as expected |
-| XL Monitor 1440p 21:9 Ultrawide | ![screenshot](documentation/) | ![screenshot](documentation/) | Works as expected |
-| Samsung Galaxy S10+ (my personal mobile) | ![screenshot](documentation/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-home.jpg) | ![screenshot](documentation/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-confirmation.jpg) | Works as expected |
+| Mobile iPhone SE (DevTools) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-home-top-mobile.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-home-bottom-mobile.png) | Works as expected |
+| Tablet iPad Air (DevTools) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-nav-tablet.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/repsonsive-about-tablet.png) | Works as expected |
+| Desktop (DevTools)| ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-sandwich-desktop.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-drinks-desktop.png) | Works as expected |
+| Standard 1080p 16:9 Monitor | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/chrome-contact-top.png) | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/chrome-contact-bottom.png) | Works as expected |
+| XL Monitor 1440p 21:9 Ultrawide | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/nav-ultrawide.png) | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/about-ultrawide.png) | Works as expected |
+| Samsung Galaxy S10+ (my personal mobile) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-home.jpg) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-confirmation.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
