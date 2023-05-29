@@ -194,7 +194,7 @@ The following are existing features of The Bread Shed site along with descriptio
 The following are future features to be implemented into The Bread Shed site:
 
 - Order Page
-  - I believe that and order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would alos free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
+  - An order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would alos free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
 - Payments Page
   - A payment page would be beneficial so that customers that are in a hurry can order and pay all in one go and when ready just collect their order and go.
 - Delivery Options
