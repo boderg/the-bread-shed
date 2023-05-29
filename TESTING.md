@@ -58,63 +58,45 @@ Return back to the [README.md](README.md) file.
 | Desktop (DevTools)| ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-sandwich-desktop.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-drinks-desktop.png) | Works as expected |
 | Standard 1080p 16:9 Monitor | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/chrome-contact-top.png) | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/chrome-contact-bottom.png) | Works as expected |
 | XL Monitor 1440p 21:9 Ultrawide | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/nav-ultrawide.png) | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/about-ultrawide.png) | Works as expected |
-| Samsung Galaxy S10+ (my personal mobile) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-home.jpg) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-confirmation.jpg) | Works as expected |
+| Samsung Galaxy S10+ (my mobile) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-home.jpg) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-confirmation.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Use this space to discuss testing the live/deployed site's Lighthouse Audit reports.
-Avoid testing the local version (especially if developing in Gitpod), as this can have knock-on effects of performance.
-
-If you don't have Lighthouse in your Developer Tools,
-it can be added as an [extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk).
-
-Don't just test the home page (unless it's a single-page application).
-Make sure to test the Lighthouse Audit results for all of your pages.
-
-**IMPORTANT**: You must provide screenshots of the results, to "prove" that you've actually tested them.
-
-Sample Lighthouse testing documentation:
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
-I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+- I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+- No major issues were noted.
+- Some performance issues noted due to larger content loads.
+- All images compressed and converted to .webp format for faster load times.
+- All script tags have been placed at the bottom of the html body for faster load times.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse-home-mobile.png) | Some minor warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse-home-desktop.png) | Few warnings |
-| About | Mobile | ![screenshot](documentation/lighthouse-about-mobile.png) | Some minor warnings |
-| About | Desktop | ![screenshot](documentation/lighthouse-about-desktop.png) | Few warnings |
-| Gallery | Mobile | ![screenshot](documentation/lighthouse-gallery-mobile.png) | Slow response time due to large images |
-| Gallery | Desktop | ![screenshot](documentation/lighthouse-gallery-desktop.png) | Slow response time due to large images |
-| x | x | x | repeat for any other tested pages/sizes |
+| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home.png) | Few warnings |
+| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home.png) | Few warnings |
+| Sandwich Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-sandwich.png) | Slow response due to large content |
+| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich.png) | Few warnings |
+| Drinks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-drinks.png) | Few warnings |
+| Drinks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-drinks.png) | No warnings to note |
+| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks.png) | Few warnings |
+| Snacks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-snacks.png) | No warnings to note |
+| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact.png) | Slow response time due to large content |
+| Contact | Desktop | ![screenshot](documentation/lighthouse/desktop-contact.png) | Few warnings |
 
 ## User Story Testing
 
-⚠️⚠️⚠️⚠️⚠️ START OF NOTES (to be deleted) ⚠️⚠️⚠️⚠️⚠️
-
-Testing user stories is actually quite simple, once you've already got the stories defined on your README.
-
-Most of your project's **features** should already align with the **user stories**,
-so this should as simple as creating a table with the user story, matching with the re-used screenshot
-from the respective feature.
-
-🛑🛑🛑🛑🛑 END OF NOTES (to be deleted) 🛑🛑🛑🛑🛑
-
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature01.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature02.png) |
-| As a new site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature03.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature04.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature05.png) |
-| As a returning site user, I would like to ____________, so that I can ____________. | ![screenshot](documentation/feature06.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature07.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature08.png) |
-| As a site administrator, I should be able to ____________, so that I can ____________. | ![screenshot](documentation/feature09.png) |
-| repeat for all remaining user stories | x |
+| As a new site user, I would like to easily understand the main purpose of the site, so that I can learn more about what it has to offer. | ![screenshot](documentation/features/the-bread-shed-navigation-header.png) |
+| As a new site user, I would like to easily navigate through the site, so that I can easily make a choice from what is on offer. | ![screenshot](documentation/features/offcanvas-navigation-menu.png) |
+| As a new site user, I would like to easily see what others think, so that I can decide if what is on offer will suit my tastes. | ![screenshot](documentation/features/scrolling-carousel.png) |
+| As a new site user, I would like to easily be able to see their social media interaction, so that I can see if the have any publicised offers or loyalty schemes. | ![screenshot](documentation/features/social-media-links.png) |
+| As a returning site user, I would like to find a good selection, so that I can try something different each time. | ![screenshot](documentation/features/sandwich-menu.png) |
+| As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials. | ![screenshot](documentation/features/contact-form.png) |
+| As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank. | ![screenshot](documentation/features/sandwich-menu.png) |
+| As a returning site user, I would like to wide range of drinks and snacks, so that I can compliment my meal choice. | ![screenshot](documentation/features/drinks-menu.png) |
+| As a site administrator, I should be able to easily navigate the site, so that I can make necessary alterations. | ![screenshot](documentation/features/offcanvas-navigation-menu.png) |
+| As a site administrator, I should be able to find what is needed, so that I can update menus. | ![screenshot](documentation/features/sandwich-menu.png) |
+| As a site administrator, I should be able to maintain the site, so that I can remove any errors or bugs. | ![screenshot](documentation/) |
+| As a site administrator, I should be able to keep the site running, so that I can limit the downtime and unavailability to customers. | ![screenshot](documentation/) |
 
 ## Bugs
 
