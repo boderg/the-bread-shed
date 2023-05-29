@@ -60,7 +60,7 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 
 - As a returning site user, I would like to find a good selection, so that I can try something different each time.
 - As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials.
-- As a returning site user, I would like to good value, so that I can feel satisfied without breaking the bank.
+- As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank.
 - As a returning site user, I would like to wide range of drinks and snacks, so that I can compliment my meal choice.
 
 ### Site Admin
