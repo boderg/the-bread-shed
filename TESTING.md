@@ -26,7 +26,7 @@ Return back to the [README.md](README.md) file.
 - I have used the recommended [CSS Jigsaw Validator](https://jigsaw.w3.org/css-validator) to validate all of my CSS files.
 - The screenshot shows a pass in relation to the css file that was validated by copy and paste method.
 - The copy and paste method was used because the validator is trying to validate the bootstrap elements that have been used.
-- The link is for the URL test method and shows many warnings due to the bootstrap elements and vendor specific styles used.
+- The link below is for the URL test method and shows many warnings due to the bootstrap elements and vendor specific styles used.
 
 | File | Jigsaw URL | Screenshot | Notes |
 | --- | --- | --- | --- |
@@ -34,7 +34,7 @@ Return back to the [README.md](README.md) file.
 
 ## Browser Compatibility
 
-- I've tested my deployed project on multiple browsers to check for compatibility issues.
+- I've tested my deployment of The Bread Shed on multiple browsers to check for compatibility issues.
 - As well as checking for page functionality, all social links were tested to ensure they open in new tabs.
 - Each page was tested and a screenshot taken in each of the browsers below. A representation of this is shown in the table below.
 
@@ -48,8 +48,8 @@ Return back to the [README.md](README.md) file.
 
 ## Responsiveness
 
-- I've tested my deployed project on multiple devices to check for responsiveness issues.
-- The devices tested on were presets within devtools in the chrome browser along with my own personal Samsung Galaxy S10+, 1080p standard monitor and 1440p ultrawide monitor.
+- I've tested my deployment of The Bread Shed on multiple devices to check for responsiveness issues.
+- The devices tested on were presets within devtools in the chrome browser along with my own personal Samsung Galaxy S10+, 1080p standard and 1440p ultrawide monitors.
 
 | Device | Screenshot | Screenshot | Notes |
 | --- | --- | --- | --- |
@@ -62,7 +62,7 @@ Return back to the [README.md](README.md) file.
 
 ## Lighthouse Audit
 
-- I've tested my deployed project using the Lighthouse Audit tool to check for any major issues.
+- I've tested my deployment of The Bread Shed using the Lighthouse Audit tool to check for any major issues.
 - No major issues were noted.
 - Some performance issues noted due to larger content loads.
 - All images compressed and converted to .webp format for faster load times.
@@ -83,6 +83,8 @@ Return back to the [README.md](README.md) file.
 
 ## User Story Testing
 
+I've tested my deployment of The Bread Shed to ensure that it meets the user stories listed.
+
 | User Story | Screenshot |
 | --- | --- |
 | As a new site user, I would like to easily understand the main purpose of the site, so that I can learn more about what it has to offer. | ![screenshot](documentation/features/the-bread-shed-navigation-header.png) |
@@ -92,13 +94,15 @@ Return back to the [README.md](README.md) file.
 | As a returning site user, I would like to find a good selection, so that I can try something different each time. | ![screenshot](documentation/features/sandwich-menu.png) |
 | As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials. | ![screenshot](documentation/features/contact-form.png) |
 | As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank. | ![screenshot](documentation/features/sandwich-menu.png) |
-| As a returning site user, I would like to wide range of drinks and snacks, so that I can compliment my meal choice. | ![screenshot](documentation/features/drinks-menu.png) |
+| As a returning site user, I would like to see a wide range of drinks and snacks, so that I can compliment my meal choice. | ![screenshot](documentation/features/drinks-menu.png) |
 | As a site administrator, I should be able to easily navigate the site, so that I can make necessary alterations. | ![screenshot](documentation/features/offcanvas-navigation-menu.png) |
 | As a site administrator, I should be able to find what is needed, so that I can update menus. | ![screenshot](documentation/features/sandwich-menu.png) |
 | As a site administrator, I should be able to maintain the site, so that I can remove any errors or bugs. | ![screenshot](documentation/) |
 | As a site administrator, I should be able to keep the site running, so that I can limit the downtime and unavailability to customers. | ![screenshot](documentation/) |
 
 ## Bugs
+
+The following are bugs that I have come across while creating The Bread Shed site.
 
 - Overflow-x - On two of the pages I had an overflow on the x-axis.
 
