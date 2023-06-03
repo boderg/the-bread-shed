@@ -267,6 +267,7 @@ No differences have been noted between the local and the deployed pages of The B
 ## Credits
 
 The following are credits to various people and technologies that have directly or otherwise assisted in the creation of The Bread Shed site.
+
 ### Content
 
 The following content was used in the creation of The Bread Shed site:
