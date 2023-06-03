@@ -194,7 +194,7 @@ The following are existing features of The Bread Shed site along with descriptio
 The following are future features to be implemented into The Bread Shed site:
 
 - Order Page
-  - An order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would alos free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
+  - An order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would also free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
 - Payments Page
   - A payment page would be beneficial so that customers that are in a hurry can order and pay all in one go and when ready just collect their order and go.
 - Delivery Options
@@ -215,48 +215,48 @@ The following tools were used in the creation of The Bread Shed site:
 
 ## Testing
 
-For all testing, please refer to the [TESTING.md](TESTING.md) file.
+For all testing of The Bread Shed, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
-The site was deployed to GitHub Pages. The steps to deploy are as follows:
+The Bread Shed site was deployed to GitHub Pages. The steps involved to deploy The Bread Shed site are as follows:
 
-- In the [GitHub repository](https://github.com/boderg/the-bread-shed), navigate to the Settings tab,
+- In [The Bread Shed GitHub repository](https://github.com/boderg/the-bread-shed), navigate to the Settings tab,
 - From the source section drop-down menu, select the **Main** Branch, then click "Save".
 - The page will be automatically be refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found [here](https://boderg.github.io/the-bread-shed)
+The live link for The Bread Shed can be found [here](https://boderg.github.io/the-bread-shed).
 
 ### Local Deployment
 
-This project can be cloned or forked in order to make a local copy on your own system.
+The Bread Shed can be cloned or forked in order to make a local copy on your own system.
 
 #### Cloning
 
-You can clone the repository by following these steps:
+You can clone The Bread Shed repository by following these steps:
 
-1. Go to the [GitHub repository](https://github.com/boderg/the-bread-shed)  
-2. Locate the Code button above the list of files and click it  
-3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
-4. Open Git Bash or Terminal
-5. Change the current working directory to the one where you want the cloned directory
+1. Go to [The Bread Shed GitHub repository](https://github.com/boderg/the-bread-shed).  
+2. Locate the Code button above the list of files and click it.  
+3. Select your preferred option to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard.
+4. Open Git Bash or Terminal.
+5. Change the current working directory to the one where you want the cloned directory.
 6. In your IDE Terminal, type the following command to clone my repository:
     - `git clone https://github.com/boderg/the-bread-shed.git`
 7. Press Enter to create your local clone.
 
-Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+Alternatively, if using Gitpod, you can click below to create your own workspace using The Bread Shed repository.
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/boderg/the-bread-shed)
 
-Please note that in order to directly open the project in Gitpod, you need to have the browser extension installed.
+Please note that in order to directly open The Bread Shed in Gitpod, you need to have the browser extension installed.
 A tutorial on how to do that can be found [here](https://www.gitpod.io/docs/configure/user-settings/browser-extension).
 
 #### Forking
 
-By forking the GitHub Repository, we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original owner's repository.
+By forking The Bread Shed GitHub Repository, you make a copy of the original repository on your GitHub account to view and/or make changes without affecting the original owner's repository.
 You can fork this repository by using the following steps:
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/boderg/the-bread-shed)
+1. Log in to GitHub and locate [The Bread Shed GitHub Repository](https://github.com/boderg/the-bread-shed).
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. Once clicked, you should now have a copy of the original repository in your own GitHub account!
 
@@ -266,6 +266,7 @@ No differences have been noted between the local and the deployed pages of The B
 
 ## Credits
 
+The following are credits to various people and technologies that have directly or otherwise assisted in the creation of The Bread Shed site.
 ### Content
 
 The following content was used in the creation of The Bread Shed site:
@@ -295,8 +296,8 @@ The fullscreen hero images used on The Bread Shed site are attributed to the fol
 
 ### Acknowledgements
 
-- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of this project.
+- I would like to thank my Code Institute mentor, [Tim Nelson](https://github.com/TravelTimN) for their support throughout the development of The Bread Shed.
 - I would like to thank the [Code Institute](https://codeinstitute.net) tutor team for their assistance with troubleshooting and debugging some IDE set up issues.
-- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the support with the implementation of VSCode to work locally when the online IDE was running slow.
-- I would like to thank my CI facilitator Iris Smok for their effective learning timetables and feedback on my project.
+- I would like to thank the [Code Institute Slack community](https://code-institute-room.slack.com) for the support with the implementation of VSCode, Bash and Git to enable me to work locally when the online IDE was running slow.
+- I would like to thank my CI facilitator Iris Smok for their effective learning timetables and feedback on The Bread Shed site.
 - I would like to thank my family, for believing in me, and allowing me to make this transition into software development.
