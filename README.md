@@ -283,6 +283,8 @@ The following content was used in the creation of The Bread Shed site:
 | [Bootstrap](https://getbootstrap.com/docs/5.3/content/tables/) | menu pages | table element |
 | [Bootstrap](https://getbootstrap.com/docs/5.3/forms/form-control/) | contact page | form element |
 | [Google Maps](https://goo.gl/maps/LB4WPhpZbBGpvSt1A) | contact page | interactive map |
+| [Favicon Generator](https://favicon.io/) | all pages | favicon creation and installation in browser tab |
+| [Net Informations](https://net-informations.com/q/mis/closed.html) | all pages | removal of cross origin errors |
 
 ### Media
 
