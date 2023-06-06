@@ -396,6 +396,8 @@ footer {
     color: #22333b;
     background-color: #fbda92;
     border-radius: 50%;
+    transform: scale(1.1);
+    transition: all 0.2s ease-in-out;
 }
 
 .send-btn:hover {
