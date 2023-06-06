@@ -214,6 +214,14 @@ h4 {
     color: #22333b;
 }
 
+.contact-head {
+    background-color: #fbda92ba;
+    width: -moz-fit-content;
+    width: fit-content;
+    border: 1px solid #22333b;
+    border-radius: 7px;
+}
+
 .contact-heading {
     font-size: 40px;
 }
