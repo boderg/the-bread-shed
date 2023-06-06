@@ -127,7 +127,7 @@ h1 {
 
 .heading {
     height: auto;
-    padding: 5px;
+    padding: 0 0 20px 0;
     margin-top: 150px;
     margin-bottom: 150px;
     background-color: #fbda92ba;
