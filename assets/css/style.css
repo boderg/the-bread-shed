@@ -404,11 +404,6 @@ footer {
     transition: all 0.2s ease-in-out;
 }
 
-.about-offcanvas:hover {
-    transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
-}
-
 /*----------About Us Offcanvas----------*/
 
 .about-offcanvas a {
