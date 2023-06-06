@@ -121,9 +121,8 @@ body {
 
 h1 {
     font-family: "Concert One", sans-serif;
-    font-size: 400%;
-    color: #fbda92;
-    -webkit-text-stroke: 2px #22333b;
+    font-size: 350%;
+    color: #22333b;
 }
 
 .heading {
