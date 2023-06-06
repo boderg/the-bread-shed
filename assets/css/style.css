@@ -383,7 +383,7 @@ footer {
 .nav-link:hover {
     color: #fbda92;
     transform: scale(1.2);
-    margin-left: 1.25em;
+    transition: all 0.2s ease-in-out;
     -webkit-text-stroke: 1px #22333b;
 }
 
