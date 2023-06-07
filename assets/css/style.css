@@ -66,6 +66,7 @@ body {
 .navbar-toggler {
     --bs-navbar-toggler-border-color: #fbda92;
     --bs-navbar-toggler-padding-x: 0.5rem;
+    transition: all 0.2s ease-in-out;
 }
 
 .navbar-toggler-icon {
@@ -243,6 +244,7 @@ h4 {
     border: 1px solid #22333b;
     font-size: 25px;
     padding: 10px;
+    transition: all 0.2s ease-in-out;
 }
 
 /*----------Address and Map----------*/
@@ -307,7 +309,7 @@ footer {
     color: #fbda92;
     font-size: xx-large;
     padding: 2px;
-    -webkit-text-stroke: 0.5px #fbda92;
+    transition: all 0.2s ease-in-out;
 }
 
 .fa-copyright {
@@ -409,6 +411,7 @@ footer {
     text-decoration: none;
     color: #fbda92;
     font-size: 25px;
+    transition: all 0.2s ease-in-out;
 }
 
 .offcanvas-bottom {
