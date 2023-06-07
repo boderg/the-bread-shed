@@ -110,7 +110,10 @@ body {
 h1 {
     font-family: "Concert One", sans-serif;
     font-size: 350%;
-    color: #22333b;
+
+h2 {
+    font-family: "Concert One", sans-serif;
+    font-size: 300%;
 }
 
 .heading {
@@ -342,7 +345,8 @@ footer {
 
     h1 {
         font-size: 300%;
-        -webkit-text-stroke-: 1px;
+    h2 {
+        font-size: 275%;
     }
 
     .heading {
