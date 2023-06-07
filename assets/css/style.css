@@ -5,6 +5,17 @@
     box-sizing: border-box;
 }
 
+/*----------Root variables----------*/
+
+:root {
+    --gunmetal: rgb(34, 51, 59);
+    --gunmetal-opaque: rgba(34, 51, 59, 0.792);
+    --peach-yellow: rgb(251, 218, 146);
+    --peach-yellow-opaque: rgba(251, 218, 146, .729);
+    --alpha: 0.825;
+}
+
+/*----------Body / Background----------*/
 
 html,
 body {
@@ -45,63 +56,63 @@ body {
 
 .navbar {
     width: 100%;
-    background-color: #22333bca;
+    background-color: var(--gunmetal-opaque);
 }
 
 .navbar-brand {
-    color: #fbda92;
+    color: var(--peach-yellow);
     font-family: "Concert One", sans-serif;
     font-size: 40px;
-    -webkit-text-stroke: 1.5px #22333b;
+    -webkit-text-stroke: 1.5px var(--gunmetal);
     transition: all 0.2s ease-in-out;
 }
 
 .nav-link {
-    color: #22333b;
+    color: var(--gunmetal);
     font-family: "Concert One", sans-serif;
     font-size: 25px;
     transition: all 0.2s ease-in-out;
 }
 
 .navbar-toggler {
-    --bs-navbar-toggler-border-color: #fbda92;
+    --bs-navbar-toggler-border-color: var(--peach-yellow);
     --bs-navbar-toggler-padding-x: 0.5rem;
     transition: all 0.2s ease-in-out;
 }
 
 .navbar-toggler-icon {
-    background-color: #fbda92;
-    --bs-navbar-toggler-border-color: #fbda92;
+    background-color: var(--peach-yellow);
+    --bs-navbar-toggler-border-color: var(--peach-yellow);
 }
 
-/*----------Navbar Offcanvas----------*/
+/*----------Navbar offcanvas----------*/
 
 .offcanvas-body {
-    background-color: #fbda92b5;
+    background-color: var(--peach-yellow-opaque);
 }
 
 .offcanvas-header {
-    background-color: #fbda92b5;
+    background-color: var(--peach-yellow-opaque);
 }
 
 .offcanvas-end {
-    opacity: 0.9;
+    opacity: var(--alpha);
 }
 
-/*----------Navbar Offcanvas card----------*/
+/*----------Navbar offcanvas card----------*/
 
 .card-title {
     font-family: "Concert One", sans-serif;
-    color: #fbda92;
+    color: var(--peach-yellow);
 }
 
 .card-text {
     font-family: "Concert One", sans-serif;
-    color: #fbda92;
+    color: var(--peach-yellow);
 }
 
 .card-body {
-    background-color: #22333b;
+    background-color: var(--gunmetal);
     border-radius: 5px;
 }
 
@@ -110,10 +121,13 @@ body {
 h1 {
     font-family: "Concert One", sans-serif;
     font-size: 350%;
+    color: var(--gunmetal);
+}
 
 h2 {
     font-family: "Concert One", sans-serif;
     font-size: 300%;
+    color: var(--gunmetal);
 }
 
 .heading {
@@ -121,25 +135,25 @@ h2 {
     padding: 0 0 20px 0;
     margin-top: 150px;
     margin-bottom: 150px;
-    background-color: #fbda92ba;
+    background-color: var(--peach-yellow-opaque);
     width: 60%;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
     border-radius: 7px;
 }
 
 /*----------Carousel----------*/
 
 .carousel {
-    background-color: #fbda92ba;
+    background-color: var(--peach-yellow-opaque);
     border-radius: 7px;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
     margin: 0 0 100px 0;
 }
 
 .compliment-title,
 h5 {
     font-family: "Concert One", sans-serif;
-    color: #22333b;
+    color: var(--gunmetal);
 }
 
 .compliment {
@@ -152,23 +166,23 @@ h5 {
 .block-divider {
     width: 75px;
     height: 5px;
-    background-color: #22333b;
+    background-color: var(--gunmetal);
 }
 
 /*----------Menus----------*/
 
-h2 {
+.menu-header {
     font-family: "Shadows into Light", sans-serif;
     font-size: 45px;
     font-weight: bolder;
-    color: #22333b;
+    color: var(--gunmetal);
     text-decoration: underline;
     padding: 10px;
 }
 
 .menu {
-    background-color: #fbda92ba;
-    border: solid 1px #22333b;
+    background-color: var(--peach-yellow-opaque);
+    border: solid 1px var(--gunmetal);
     border-radius: 7px;
 }
 
@@ -176,7 +190,7 @@ h2 {
     font-family: "Shadows Into Light", sans-serif;
     font-size: 25px;
     font-weight: bold;
-    color: #22333b;
+    color: var(--gunmetal);
 }
 
 /*----------Menu tables----------*/
@@ -185,7 +199,7 @@ h2 {
     font-family: "Shadows Into Light", sans-serif;
     font-size: 25px;
     font-weight: bold;
-    color: #22333b;
+    color: var(--gunmetal);
 }
 
 th {
@@ -203,13 +217,13 @@ th {
 h3,
 h4 {
     font-family: "Concert One", sans-serif;
-    color: #22333b;
+    color: var(--gunmetal);
 }
 
 .contact-head {
-    background-color: #fbda92ba;
+    background-color: var(--peach-yellow-opaque);
     width: 50%;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
     border-radius: 7px;
     padding-top: 8px;
 }
@@ -224,16 +238,16 @@ h4 {
 
 .form {
     font-family: "Shadows into Light", sans-serif;
-    color: #22333b;
+    color: var(--gunmetal);
 }
 
 .form-control {
-    background-color: #fbda92a0;
+    background-color: var(--peach-yellow-opaque);
     width: 70%;
     margin: 0 auto;
     padding-top: 10px;
     font-size: 20px;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
     font-weight: bold;
 }
 
@@ -244,24 +258,24 @@ h4 {
 
 .send-btn {
     font-family: "Concert One", sans-serif;
-    background-color: #fbda92a0;
-    color: #22333b;
-    border: 1px solid #22333b;
+    background-color: var(--peach-yellow-opaque);
+    color: var(--gunmetal);
+    border: 1px solid var(--gunmetal);
     font-size: 25px;
     padding: 10px;
     transition: all 0.2s ease-in-out;
 }
 
-/*----------Address and Map----------*/
+/*----------Address / Map----------*/
 
 .address {
     font-family: "Concert One", sans-serif;
     text-align: center;
-    color: #22333b;
+    color: var(--gunmetal);
     margin-top: 30px;
-    background-color: #fbda92a0;
+    background-color: var(--peach-yellow-opaque);
     width: 40%;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
     border-radius: 7px;
     padding-top: 10px;
 }
@@ -287,16 +301,16 @@ h4 {
     border-radius: 7px;
     text-align: center;
     height: 300px;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
 }
 
 /*----------Confirmation----------*/
 
 .confirm-head {
-    background-color: #fbda92ba;
+    background-color: var(--peach-yellow-opaque);
     width: -moz-fit-content;
     width: fit-content;
-    border: 1px solid #22333b;
+    border: 1px solid var(--gunmetal);
     border-radius: 7px;
     margin-top: 150px;
 }
@@ -304,32 +318,32 @@ h4 {
 /*----------Footer----------*/
 
 footer {
-    color: #22333b;
+    color: var(--gunmetal);
     font-family: "Concert One", sans-serif;
-    background-color: #22333bca;
+    background-color: var(--gunmetal-opaque);
     padding: 2em 0 1em 0;
 }
 
 .fa-brands {
-    color: #fbda92;
+    color: var(--peach-yellow);
     font-size: xx-large;
     padding: 2px;
     transition: all 0.2s ease-in-out;
 }
 
 .fa-copyright {
-    color: #fbda92;
+    color: var(--peach-yellow);
 }
 
 .copyright {
-    color: #fbda92;
+    color: var(--peach-yellow);
 }
 
 /*----------Media queries----------*/
 
 @media only screen and (max-width : 990px) {
     .navbar-collapse {
-        background: #fbda92ba;
+        background: var(--peach-yellow-opaque);
         padding-left: 20px;
     }
 
@@ -347,6 +361,8 @@ footer {
 
     h1 {
         font-size: 300%;
+    }
+
     h2 {
         font-size: 275%;
     }
@@ -359,7 +375,8 @@ footer {
         width: 95%;
     }
 
-    th, .price {
+    th,
+    .price {
         font-size: 25px;
     }
 }
@@ -373,53 +390,47 @@ footer {
 /*----------Hover----------*/
 
 .navbar-brand:hover {
-    color: #22333b;
+    color: var(--gunmetal);
     transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
-    -webkit-text-stroke: 1.5px #fbda92;
+    -webkit-text-stroke: 1.5px var(--peach-yellow);
 }
 
 .nav-link:hover {
-    color: #fbda92;
+    color: var(--peach-yellow);
     transform: scale(1.2);
-    transition: all 0.2s ease-in-out;
-    -webkit-text-stroke: 1px #22333b;
+    -webkit-text-stroke: 1px var(--gunmetal);
 }
 
 .navbar-toggler:hover {
     transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
 }
 
 .fa-brands:hover {
-    color: #22333b;
-    background-color: #fbda92;
+    color: var(--gunmetal);
+    background-color: var(--peach-yellow);
     border-radius: 50%;
     transform: scale(1.1);
-    transition: all 0.2s ease-in-out;
 }
 
 .send-btn:hover {
-    background-color: #22333b;
-    color: #fbda92;
-    transition: all 0.2s ease-in-out;
+    background-color: var(--gunmetal);
+    color: var(--peach-yellow);
 }
 
 .about-offcanvas a:hover {
-    color: #22333b;
-    -webkit-text-stroke: 0.5px #fbda92;
-    transition: all 0.2s ease-in-out;
+    color: var(--gunmetal);
+    -webkit-text-stroke: 0.5px var(--peach-yellow);
 }
 
 /*----------About Us Offcanvas----------*/
 
 .about-offcanvas a {
     text-decoration: none;
-    color: #fbda92;
+    color: var(--peach-yellow);
     font-size: 25px;
     transition: all 0.2s ease-in-out;
 }
 
 .offcanvas-bottom {
-    opacity: 0.9;
+    opacity: var(--alpha);
 }
