@@ -339,6 +339,10 @@ footer {
         padding-left: 20px;
     }
 
+    .contact-head {
+        width: 95%;
+    }
+
     .form-control {
         width: 100%;
     }
