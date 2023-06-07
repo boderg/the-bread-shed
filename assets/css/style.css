@@ -16,48 +16,29 @@ body>footer {
     top: 100vh;
 }
 
-body {
-    margin: 0;
-    padding: 0;
-    background-image: url("../images/sandwich-main.webp");
+body,
+[class$="-menu-bg"] {
     background-position: center top;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    background-color: #fbda92a0;
+    background-color: var(--peach-yellow-opaque);
+}
+
+body {
+    background-image: url("../images/sandwich-main.webp");
 }
 
 .sandwich-menu-bg {
-    margin: 0;
-    padding: 0;
     background-image: url("../images/sandwich.webp");
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #fbda92a0;
 }
 
 .drinks-menu-bg {
-    margin: 0;
-    padding: 0;
     background-image: url("../images/drinks.webp");
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #fbda92a0;
 }
 
 .snacks-menu-bg {
-    margin: 0;
-    padding: 0;
     background-image: url("../images/snacks.webp");
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    background-color: #fbda92a0;
 }
 
 /*----------Navbar----------*/
