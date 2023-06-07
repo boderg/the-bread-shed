@@ -354,6 +354,14 @@ footer {
     .heading {
         width: 90%;
     }
+
+    .menu {
+        width: 95%;
+    }
+
+    th, .price {
+        font-size: 25px;
+    }
 }
 
 @media only screen and (min-width : 990px) {
