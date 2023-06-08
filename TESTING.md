@@ -40,11 +40,11 @@ Return back to the [README.md](README.md) file.
 
 | Browser | Screenshot 1 | Screenshot 2 | Notes |
 | --- | --- | --- | --- |
-| [Brave](https://brave.com/download) | ![screenshot](documentation/browser-compatibility/brave-screenshots/brave-home-page.png) | ![screenshot](documentation/browser-compatibility/brave-screenshots/brave-offcanvas-about.png) | Works as expected |
-| [Chrome](https://www.google.com/chrome) | ![screenshot](documentation/browser-compatibility/chrome-screenshots/chrome-offcanvas-menu.png) | ![screenshot](documentation/browser-compatibility/chrome-screenshots/chrome-sandwich-menu.png) | Works as expected |
-| [Edge](https://www.microsoft.com/edge) | ![screenshot](documentation/browser-compatibility/edge%20-screenshots/edge-drinks-menu.png) | ![screenshot](documentation/browser-compatibility/edge%20-screenshots/edge-snacks-menu.png) | Works as expected |
-| [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer) | ![screenshot](documentation/browser-compatibility/firefox-screenshots/firefoc-contact-top.png) | ![screenshot](documentation/browser-compatibility/firefox-screenshots/firefox-contact-bottom.png) | Works as expected |
-| [Opera](https://www.opera.com/download) | ![screenshot](documentation/browser-compatibility/opera-screenshots/opera-confirmation.png) | ![screenshot](documentation/browser-compatibility/opera-screenshots/opera-target-blank-links.png) | Works as expected |
+| [Brave](https://brave.com/download) | ![screenshot](documentation/browser-compatibility/brave-screenshots/brave-home.png) | ![screenshot](documentation/browser-compatibility/brave-screenshots/brave-offcanvas-about.png) | Works as expected |
+| [Chrome](https://www.google.com/chrome) | ![screenshot](documentation/browser-compatibility/chrome-screenshots/chrome-offcanvas-menu.png) | ![screenshot](documentation/browser-compatibility/chrome-screenshots/chrome-sandwich.png) | Works as expected |
+| [Edge](https://www.microsoft.com/edge) | ![screenshot](documentation/browser-compatibility/edge%20-screenshots/edge-drinks.png) | ![screenshot](documentation/browser-compatibility/edge%20-screenshots/edge-snacks.png) | Works as expected |
+| [Firefox (Developer Edition)](https://www.mozilla.org/firefox/developer) | ![screenshot](documentation/browser-compatibility/firefox-screenshots/firefox-contact-form.png) | ![screenshot](documentation/browser-compatibility/firefox-screenshots/firefox-contact-map.png) | Works as expected |
+| [Opera](https://www.opera.com/download) | ![screenshot](documentation/browser-compatibility/opera-screenshots/opera-confirmation.png) | ![screenshot](documentation/browser-compatibility/opera-screenshots/opera-home.png) | Works as expected |
 
 ## Responsiveness
 
@@ -53,12 +53,12 @@ Return back to the [README.md](README.md) file.
 
 | Device | Screenshot | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Mobile iPhone SE (DevTools) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-home-top-mobile.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-home-bottom-mobile.png) | Works as expected |
-| Tablet iPad Air (DevTools) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-nav-tablet.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/repsonsive-about-tablet.png) | Works as expected |
-| Desktop (DevTools)| ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-sandwich-desktop.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/responsive-drinks-desktop.png) | Works as expected |
-| Standard 1080p 16:9 Monitor | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/chrome-contact-top.png) | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/chrome-contact-bottom.png) | Works as expected |
-| XL Monitor 1440p 21:9 Ultrawide | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/nav-ultrawide.png) | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/about-ultrawide.png) | Works as expected |
-| Samsung Galaxy S10+ | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-home.jpg) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10%2B-screenshots/galaxy-s10%2B-confirmation.jpg) | Works as expected |
+| Mobile iPhone SE (DevTools) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/mobile-home-top.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/mobile-home-bottom.png) | Works as expected |
+| Tablet iPad (DevTools) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/tablet-oc-menu.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/tablet-oc-about.png) | Works as expected |
+| Desktop (DevTools)| ![screenshot](documentation/responsiveness/dev-tools-screenshots/fullpage-sandwich.png) | ![screenshot](documentation/responsiveness/dev-tools-screenshots/fullpage-drink.png) | Works as expected |
+| Standard 1080p 16:9 Monitor | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/1080p-contact-top.png) | ![screenshot](documentation/responsiveness/1080p-standard-monitor-screenshots/1080p-contact-bottom.png) | Works as expected |
+| XL Monitor 1440p 21:9 Ultrawide | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/1440p-ultrawide-home.png) | ![screenshot](documentation/responsiveness/1440p-ultrawide-screenshots/1440p-ultrawide-sandwich.png) | Works as expected |
+| Samsung Galaxy S10 Plus | ![screenshot](documentation/responsiveness/samsung-galaxy-s10plus-screenshots/galaxy-s10plus-drinks.jpg) | ![screenshot](documentation/responsiveness/samsung-galaxy-s10plus-screenshots/galaxy-s10plus-form.jpg) | Works as expected |
 
 ## Lighthouse Audit
 
@@ -70,16 +70,16 @@ Return back to the [README.md](README.md) file.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home-crop.png) | Few warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home-crop.png) | Few warnings |
-| Sandwich Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-sandwich-crop.png) | Slow response due to large content |
-| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich-crop.png) | Few warnings |
-| Drinks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-drinks-crop.png) | Few warnings |
-| Drinks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-drinks-crop.png) | No warnings to note |
-| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks-crop.png) | Few warnings |
-| Snacks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-snacks-crop.png) | No warnings to note |
-| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact-crop.png) | Slow response time due to large content |
-| Contact | Desktop | ![screenshot](documentation/lighthouse/desktop-contact-crop.png) | Few warnings |
+| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home.png) | Few warnings |
+| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home.png) | Few warnings |
+| Sandwich Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-sandwich.png) | Few warnings |
+| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich.png) | Few warnings |
+| Drinks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-drinks.png) | Few warnings |
+| Drinks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-drinks.png) | No warnings to note |
+| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks.png) | Slow performance due to cumulative layer shift |
+| Snacks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-snacks.png) | No warnings to note |
+| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact.png) | Slow response time due to large content |
+| Contact | Desktop | ![screenshot](documentation/lighthouse/desktop-contact.png) | Few warnings |
 
 ## User Story Testing
 
@@ -87,10 +87,10 @@ I've tested my deployment of The Bread Shed to ensure that it meets the user sto
 
 | User Story | Screenshot |
 | --- | --- |
-| As a new site user, I would like to easily understand the main purpose of the site, so that I can learn more about what it has to offer. | ![screenshot](documentation/features/the-bread-shed-navigation-header.png) |
-| As a new site user, I would like to easily navigate through the site, so that I can easily make a choice from what is on offer. | ![screenshot](documentation/features/offcanvas-navigation-menu.png) |
-| As a new site user, I would like to easily see what others think, so that I can decide if what is on offer will suit my tastes. | ![screenshot](documentation/features/scrolling-carousel.png) |
-| As a new site user, I would like to easily be able to see their social media interaction, so that I can see if the have any publicised offers or loyalty schemes. | ![screenshot](documentation/features/social-media-links.png) |
+| As a new site user, I would like to easily understand the main purpose of the site, so that I can learn more about what it has to offer. | ![screenshot](documentation/features/navigation-header.png) |
+| As a new site user, I would like to easily navigate through the site, so that I can easily make a choice from what is on offer. | ![screenshot](documentation/features/offcanvas-menu.png) |
+| As a new site user, I would like to easily see what others think, so that I can decide if what is on offer will suit my tastes. | ![screenshot](documentation/features/compliments-carousel.png) |
+| As a new site user, I would like to easily be able to see their social media interaction, so that I can see if the have any publicised offers or loyalty schemes. | ![screenshot](documentation/features/social-naviagtion-links.png) |
 | As a returning site user, I would like to find a good selection, so that I can try something different each time. | ![screenshot](documentation/features/sandwich-menu.png) |
 | As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials. | ![screenshot](documentation/features/contact-form.png) |
 | As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank. | ![screenshot](documentation/features/sandwich-menu.png) |
@@ -128,7 +128,7 @@ The following are bugs that I have come across while creating The Bread Shed sit
 
 - About Us - The about us link at the bottom of the page will not transform on hover.
 
-  ![screenshot]()
+  ![screenshot](documentation/bugs/about-us-transform.png)
 
   - I was unsuccessful at fixing this. I can get the surrounding column to transform but not the link itself. I suspect that this is a setting within bootstrap that will need further investigation.
 
