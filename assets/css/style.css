@@ -34,6 +34,8 @@ body,
     background-attachment: fixed;
     background-size: cover;
     background-color: var(--peach-yellow-opaque);
+    max-width: 100%;
+    height: auto;
 }
 
 body {
