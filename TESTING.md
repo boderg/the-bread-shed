@@ -102,19 +102,19 @@ The following are bugs that I have come across while creating The Bread Shed sit
 
 - Overflow-x - On two of the pages I had an overflow on the x-axis.
 
-  ![screenshot](documentation/bugs/overflow-crop.png)
+  ![screenshot](documentation/bugs/overflow.png)
 
   - To fix this, I added a container-fluid class to the footer.
 
 - Favicon - Chrome devtools kept warning that favicon.ico was not loading.
 
-  ![screenshot](documentation/bugs/favicon-error-crop.png)
+  ![screenshot](documentation/bugs/favicon-error.png)
 
   - To fix this, I created a favicon and added the link to the html header on each page.
 
 - Uncaught in promise error - Chrome devtools was giving a cross origin error that was relating to an extension in the browser trying to access the web page.
 
-  ![screenshot](documentation/bugs/uncaught-in-promise-error-crop.png)
+  ![screenshot](documentation/bugs/uncaught-in-promise-error.png)
 
   - To fix this, I disabled the Adobe reader extension and this stopped the error warning.
 
@@ -122,7 +122,7 @@ The following are bugs that I have come across while creating The Bread Shed sit
 
 - Permission policy error - Chrome devtools gives this warning on the version that I am using. It appears to be a deprecated trial for data collection instead of using cookies.
 
-  ![screenshot](documentation/bugs/permission-policy-crop.png)
+  ![screenshot](documentation/bugs/permissions-policy-error.png)
 
   - I was unsuccessful at fixing this, however this does not affect the operation of the site and this trial operation is also blocked by GitHub as it breaks privacy policy.
 
