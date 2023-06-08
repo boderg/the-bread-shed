@@ -63,13 +63,6 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 - As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank.
 - As a returning site user, I would like to see a wide range of drinks and snacks, so that I can compliment my meal choice.
 
-### Site Admin
-
-- As a site administrator, I should be able to easily navigate the site, so that I can make necessary alterations.
-- As a site administrator, I should be able to find what is needed, so that I can update menus.
-- As a site administrator, I should be able to maintain the site, so that I can remove any errors or bugs.
-- As a site administrator, I should be able to keep the site running, so that I can limit the downtime and unavailability to customers.
-
 ## Wireframes
 
 - To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
