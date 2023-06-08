@@ -70,16 +70,16 @@ Return back to the [README.md](README.md) file.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home.png) | Few warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home.png) | Few warnings |
-| Sandwich Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-sandwich.png) | Slow response due to large content |
-| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich.png) | Few warnings |
-| Drinks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-drinks.png) | Few warnings |
-| Drinks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-drinks.png) | No warnings to note |
-| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks.png) | Few warnings |
-| Snacks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-snacks.png) | No warnings to note |
-| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact.png) | Slow response time due to large content |
-| Contact | Desktop | ![screenshot](documentation/lighthouse/desktop-contact.png) | Few warnings |
+| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home-crop.png) | Few warnings |
+| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home-crop.png) | Few warnings |
+| Sandwich Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-sandwich-crop.png) | Slow response due to large content |
+| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich-crop.png) | Few warnings |
+| Drinks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-drinks-crop.png) | Few warnings |
+| Drinks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-drinks-crop.png) | No warnings to note |
+| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks-crop.png) | Few warnings |
+| Snacks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-snacks-crop.png) | No warnings to note |
+| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact-crop.png) | Slow response time due to large content |
+| Contact | Desktop | ![screenshot](documentation/lighthouse/desktop-contact-crop.png) | Few warnings |
 
 ## User Story Testing
 
@@ -95,10 +95,6 @@ I've tested my deployment of The Bread Shed to ensure that it meets the user sto
 | As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials. | ![screenshot](documentation/features/contact-form.png) |
 | As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank. | ![screenshot](documentation/features/sandwich-menu.png) |
 | As a returning site user, I would like to see a wide range of drinks and snacks, so that I can compliment my meal choice. | ![screenshot](documentation/features/drinks-menu.png) |
-| As a site administrator, I should be able to easily navigate the site, so that I can make necessary alterations. | ![screenshot](documentation/features/offcanvas-navigation-menu.png) |
-| As a site administrator, I should be able to find what is needed, so that I can update menus. | ![screenshot](documentation/features/sandwich-menu.png) |
-| As a site administrator, I should be able to maintain the site, so that I can remove any errors or bugs. | ![screenshot](documentation/) |
-| As a site administrator, I should be able to keep the site running, so that I can limit the downtime and unavailability to customers. | ![screenshot](documentation/) |
 
 ## Bugs
 
@@ -106,19 +102,19 @@ The following are bugs that I have come across while creating The Bread Shed sit
 
 - Overflow-x - On two of the pages I had an overflow on the x-axis.
 
-  ![screenshot](documentation/bugs/overflow.png)
+  ![screenshot](documentation/bugs/overflow-crop.png)
 
   - To fix this, I added a container-fluid class to the footer.
 
 - Favicon - Chrome devtools kept warning that favicon.ico was not loading.
 
-  ![screenshot](documentation/bugs/favicon-error.png)
+  ![screenshot](documentation/bugs/favicon-error-crop.png)
 
   - To fix this, I created a favicon and added the link to the html header on each page.
 
 - Uncaught in promise error - Chrome devtools was giving a cross origin error that was relating to an extension in the browser trying to access the web page.
 
-  ![screenshot](documentation/bugs/uncaught-in-promise-error.png)
+  ![screenshot](documentation/bugs/uncaught-in-promise-error-crop.png)
 
   - To fix this, I disabled the Adobe reader extension and this stopped the error warning.
 
@@ -126,8 +122,14 @@ The following are bugs that I have come across while creating The Bread Shed sit
 
 - Permission policy error - Chrome devtools gives this warning on the version that I am using. It appears to be a deprecated trial for data collection instead of using cookies.
 
-  ![screenshot](documentation/bugs/permission-policy.png)
+  ![screenshot](documentation/bugs/permission-policy-crop.png)
 
   - I was unsuccessful at fixing this, however this does not affect the operation of the site and this trial operation is also blocked by GitHub as it breaks privacy policy.
+
+- About Us - The about us link at the bottom of the page will not transform on hover.
+
+  ![screenshot]()
+
+  - I was unsuccessful at fixing this. I can get the surrounding column to transform but not the link itself. I suspect that this is a setting within bootstrap that will need further investigation.
 
 There are no remaining bugs that I am aware of.
