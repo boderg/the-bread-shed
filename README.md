@@ -1,11 +1,11 @@
 # THE BREAD SHED
 
 - The Bread Shed is the bread and butter of everyones lunch, it is a sandwich shop that sells homemade sandwiches along with snacks and drinks.  
-- It is a place where anyone can grab a quick bite to eat for breakfast or lunch.  
-- The site is designed so that customers can view the menu and make a decision on what they might like to eat or drink before they arrive at the shop.  
-- The customer can also phone their order through so that it is pre-made and ready for them upon arrival at the store.
+- The Bread Shed is a place where anyone can grab a quick bite to eat for breakfast or lunch.  
+- The Bread Shed site is designed so that customers can view the menu and make a decision on what they might like to eat or drink before they arrive at the shop.  
+- The customer can also phone their order through so that it is pre-made and ready for them upon arrival at The Bread Shed.
 - The Bread Shed website is designed with ease in mind and is divided into menu pages where the food items are seperated by type.
-- The target audience for this website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
+- The target audience for The Bread Shed website is anyone that is looking for something that is quick and easy to obtain and healthy to eat.
 - Included below are two mockup images of The Bread Shed website.
 
 ## Mockup Screenshots
@@ -16,9 +16,9 @@
 
 ## UX
 
-- The design was created as a series of wireframes covering mobile, tablet and desktop to outlay the initial design thoughts and layout.  
-- It was designed with ease of use in mind and mobile use at the forefront. This is so users can view what is on offer while out and about or not near to a computer.
-- Once the wireframe was created, the web pages were built with a clean look and ease of navigation in mind, so you are never more than two clicks from a menu.
+- The design for The Bread Shed site was created as a series of wireframes covering mobile, tablet and desktop to outlay the initial design thoughts and layout.  
+- The Bread Shed website was designed with ease of use in mind and mobile use at the forefront. This is so users can view what is on offer while out and about or not near to a computer.
+- Once the wireframes for The Bread Shed website were created, the web pages were built with a clean look and ease of navigation in mind, so you are never more than two clicks from a menu.
 
 ### Colour Scheme
 
@@ -66,8 +66,8 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 
 ## Wireframes
 
-- To follow best practice, wireframes were developed for mobile, tablet, and desktop sizes.
-- I've used [Balsamiq](https://balsamiq.com/wireframes) to design my site wireframes.
+- To follow best practice, wireframes for The Bread Shed site were developed for mobile, tablet, and desktop sizes.
+- I've used [Balsamiq](https://balsamiq.com/wireframes) to design The Bread Shed site wireframes.
 
 ### Home Page Wireframes
 
@@ -188,11 +188,11 @@ The following are existing features of The Bread Shed site along with descriptio
 The following are future features to be implemented into The Bread Shed site:
 
 - Order Page
-  - An order page would be beneficial so that potential customers can place orders online if they are unable to use a phone for any reason. This would also free up the store phone during busy periods enabling orders to be processed quickly and efficiently.
+  - An order page would be beneficial to The Bread Shed site so that potential customers can place orders online if they are unable to use a phone for any reason. This would also free up the phone during busy periods enabling orders to be processed quickly and efficiently.
 - Payments Page
-  - A payment page would be beneficial so that customers that are in a hurry can order and pay all in one go and when ready just collect their order and go.
+  - A payment page for The Bread Shed site would be beneficial so that customers that are in a hurry can order and pay all in one go and when ready just collect their order and go.
 - Delivery Options
-  - A delivery feature would also be a great time saver for those that are unable to leave their home or office.
+  - A delivery option on The Bread Shed site would also be a great time saver for those that are unable to leave their home or office.
 
 ## Tools & Technologies Used
 
@@ -211,7 +211,7 @@ The following tools were used in the creation of The Bread Shed site:
 
 ## Testing
 
-For all testing of The Bread Shed, please refer to the [TESTING.md](TESTING.md) file.
+For all testing of The Bread Shed website, please refer to the [TESTING.md](TESTING.md) file.
 
 ## Deployment
 
