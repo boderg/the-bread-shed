@@ -91,6 +91,7 @@ I've tested my deployment of The Bread Shed to ensure that it meets the user sto
 | As a new site user, I would like to easily navigate through the site, so that I can easily make a choice from what is on offer. | ![screenshot](documentation/features/offcanvas-menu.png) |
 | As a new site user, I would like to easily see what others think, so that I can decide if what is on offer will suit my tastes. | ![screenshot](documentation/features/compliments-carousel.png) |
 | As a new site user, I would like to easily be able to see their social media interaction, so that I can see if the have any publicised offers or loyalty schemes. | ![screenshot](documentation/features/social-naviagtion-links.png) |
+|As a new site user, I would like to be able to see where the shop is located, so that I can easily collect my order. | ![screenshot](documentation/features/contact-address-&-map.png) |
 | As a returning site user, I would like to find a good selection, so that I can try something different each time. | ![screenshot](documentation/features/sandwich-menu.png) |
 | As a returning site user, I would like to be able to make contact, so that I can make suggestions or post comments / testimonials. | ![screenshot](documentation/features/contact-form.png) |
 | As a returning site user, I would like to find good value, so that I can feel satisfied without breaking the bank. | ![screenshot](documentation/features/sandwich-menu.png) |
