@@ -70,15 +70,15 @@ Return back to the [README.md](README.md) file.
 
 | Page | Size | Screenshot | Notes |
 | --- | --- | --- | --- |
-| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home.png) | Few warnings |
-| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home.png) | Few warnings |
+| Home | Mobile | ![screenshot](documentation/lighthouse/mobile-home.png) | Very few warnings |
+| Home | Desktop | ![screenshot](documentation/lighthouse/desktop-home.png) | Very few warnings |
 | Sandwich Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-sandwich.png) | Few warnings |
-| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich.png) | Few warnings |
+| Sandwich Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-sandwich.png) | No warnings to note |
 | Drinks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-drinks.png) | Few warnings |
 | Drinks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-drinks.png) | No warnings to note |
-| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks.png) | Slow performance due to cumulative layer shift |
+| Snacks Menu | Mobile | ![screenshot](documentation/lighthouse/mobile-snacks.png) | Slow performance due to image caching |
 | Snacks Menu | Desktop | ![screenshot](documentation/lighthouse/desktop-snacks.png) | No warnings to note |
-| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact.png) | Slow response time due to large content |
+| Contact | Mobile | ![screenshot](documentation/lighthouse/mobile-contact.png) | Few warnings |
 | Contact | Desktop | ![screenshot](documentation/lighthouse/desktop-contact.png) | Few warnings |
 
 ## User Story Testing
