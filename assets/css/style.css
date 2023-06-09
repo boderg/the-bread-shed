@@ -103,6 +103,11 @@ body {
     opacity: var(--alpha);
 }
 
+.icon {
+    width: 200px;
+    height: auto;
+}
+
 /*----------Navbar offcanvas card----------*/
 
 .card-title {
