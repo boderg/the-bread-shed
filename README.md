@@ -205,6 +205,8 @@ The following tools were used in the creation of The Bread Shed site:
 - [GitHub](https://github.com) used for secure online code storage.
 - [GitHub Pages](https://pages.github.com) used for hosting the deployed front-end site.
 - [VSCode](https://code.visualstudio.com/) used as a local IDE for development.
+- [Firefox Dev Edition](https://www.mozilla.org/firefox/developer) used to take viewport screenshots.
+- [Chrome Dev Tools](https://www.google.com/chrome) used for testing the The Bread Shed site.
 - [Krita](https://krita.org/en/) used for cropping and editing the background images and screenshots.
 
 ## Testing
