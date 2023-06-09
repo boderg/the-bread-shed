@@ -208,6 +208,7 @@ The following tools were used in the creation of The Bread Shed site:
 - [Firefox Dev Edition](https://www.mozilla.org/firefox/developer) used to take viewport screenshots.
 - [Chrome Dev Tools](https://www.google.com/chrome) used for testing the The Bread Shed site.
 - [Krita](https://krita.org/en/) used for cropping and editing the background images and screenshots.
+- [Affinity Photo](https://affinity.serif.com/) used for creating the sandwich on fork logo.
 
 ## Testing
 
@@ -293,6 +294,7 @@ The fullscreen hero images used on The Bread Shed site are attributed to the fol
 | [Pexels](https://www.pexels.com/photo/full-filled-drinking-glass-on-table-2827637/) | drinks menu page | image | background image, photo of drinks taken by Shirley Tan |
 | [Pexels](https://www.pexels.com/photo/crunchy-butter-cookies-with-chocolate-chunks-9828785/) | snacks menu page | image | background image, photo of cookies taken by Hilal Bülbül |
 | [Pexels](https://www.pexels.com/photo/coffee-shop-1833586/) | contact page | image | background image, photo of a coffee / sandwich shop taken by Lisa Fotios |
+| [Raw Pixel](https://www.rawpixel.com) | offcanvas menu | image | sandwich and fork images combined and edited using affinity photo |
 
 ### Acknowledgements
 
