@@ -55,6 +55,7 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 - As a new site user, I would like to easily navigate through the site, so that I can easily make a choice from what is on offer.
 - As a new site user, I would like to easily see what others think, so that I can decide if what is on offer will suit my tastes.
 - As a new site user, I would like to easily be able to see their social media interaction, so that I can see if the have any publicised offers or loyalty schemes.
+- As a new site user, I would like to be able to see where the shop is located, so that I can easily collect my order.
 
 ### Returning Site Users
 
