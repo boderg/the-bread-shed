@@ -127,10 +127,6 @@ The following are bugs that I have come across while creating The Bread Shed sit
 
   - I was unsuccessful at fixing this, however this does not affect the operation of the site and this trial operation is also blocked by GitHub as it breaks privacy policy.
 
-- About Us - The about us link at the bottom of the page will not transform on hover.
 
-  ![screenshot](documentation/bugs/about-us-transform.png)
-
-  - I was unsuccessful at fixing this. I can get the surrounding column to transform but not the link itself. I suspect that this is a setting within bootstrap that will need further investigation.
 
 There are no remaining bugs that I am aware of.
