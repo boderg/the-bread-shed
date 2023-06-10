@@ -409,7 +409,7 @@ footer {
 
 .nav-link:hover {
     color: var(--peach-yellow);
-    transform: scale(1.2);
+    transform: scale(1.1);
     -webkit-text-stroke: 1px var(--gunmetal);
 }
 
