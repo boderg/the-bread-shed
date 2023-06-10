@@ -106,6 +106,8 @@ body {
 .icon {
     width: 200px;
     height: auto;
+    display: inline-block;
+    transition: all 0.2s ease-in-out;
 }
 
 /*----------Navbar offcanvas card----------*/
@@ -429,6 +431,9 @@ footer {
 .about-offcanvas a:hover {
     color: var(--gunmetal);
     -webkit-text-stroke: 0.5px var(--peach-yellow);
+
+.icon:hover {
+    transform: scale(1.1);
 }
 
 /*----------About Us Offcanvas----------*/
