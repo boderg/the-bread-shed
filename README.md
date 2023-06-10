@@ -282,6 +282,7 @@ The following content was used in the creation of The Bread Shed site:
 | [Google Maps](https://goo.gl/maps/LB4WPhpZbBGpvSt1A) | contact page | interactive map |
 | [Favicon Generator](https://favicon.io/) | all pages | favicon creation and installation information |
 | [Net Informations](https://net-informations.com/q/mis/closed.html) | all pages | removal of cross origin errors |
+| [Stack Overflow](https://stackoverflow.com/questions/55147116/how-to-scale-links-when-hovering) | inline links | getting transform to work on inline links |
 
 ### Media
 
