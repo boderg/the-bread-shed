@@ -431,6 +431,8 @@ footer {
 .about-offcanvas a:hover {
     color: var(--gunmetal);
     -webkit-text-stroke: 0.5px var(--peach-yellow);
+    transform: scale(1.1);
+}
 
 .icon:hover {
     transform: scale(1.1);
@@ -439,6 +441,7 @@ footer {
 /*----------About Us Offcanvas----------*/
 
 .about-offcanvas a {
+    display: inline-block;
     text-decoration: none;
     color: var(--peach-yellow);
     font-size: 25px;
