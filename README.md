@@ -25,15 +25,15 @@
 - The colours chosen are Peach Yellow (#fbda92) and Gunmetal (#22333b).
 - These two colours were chosen as they compliment each other along with the aesthetic of the background image. They are also subtle, easy on the eye and have a good contrasting visiblity with each other.
 
-- `Hex code #fbda92` used for primary text.
-- `Hex code #22333b` used for primary highlights.
-- `Hex code #fbda92` used for secondary text.
-- `Hex code #22333b` used for secondary highlights.
-- `Hex code #22333b` used for tertiary text.
-- `Hex code #fbda92` used for tertiary highlights.
-- `Hex code #22333b` used for borders.
-- `Hex code #fbda92ba` used for text backgrounds.
-- `Hex code #22333bca` used for footer background.
+- `rgb(251, 218, 146)` used for primary text on dark backgrounds.
+- `rgb(34, 51, 59)` used for primary text on light backgrounds.
+- `rgb(251, 218, 146)` used for secondary text on dark backgrounds.
+- `rgb(34, 51, 59)` used for secondary texton light backgrounds.
+- `rgb(34, 51, 59)` used for text on hover with a border on dark backgrounds.
+- `rgb(251, 218, 146)` used for text on hover with a border on light backgrounds.
+- `rgb(34, 51, 59)` used for borders around light backgrounds.
+- `rgba(251, 218, 146, .729)` used for text backgrounds.
+- `rgba(34, 51, 59, .792)` used for header and footer background.
 
 ### Typography
 
