@@ -101,6 +101,12 @@ I've tested my deployment of The Bread Shed to ensure that it meets the user sto
 
 The following are bugs that I have come across while creating The Bread Shed site.
 
+- About Us Link - On hover this element would not transform.
+
+  ![screenshot](documentation/bugs/about-us-transform.png)
+
+  - To fix this, I added display: inline-block; in the css for this element.
+
 - Overflow-x - On two of the pages I had an overflow on the x-axis.
 
   ![screenshot](documentation/bugs/overflow.png)
@@ -126,7 +132,5 @@ The following are bugs that I have come across while creating The Bread Shed sit
   ![screenshot](documentation/bugs/permissions-policy-error.png)
 
   - I was unsuccessful at fixing this, however this does not affect the operation of the site and this trial operation is also blocked by GitHub as it breaks privacy policy.
-
-
 
 There are no remaining bugs that I am aware of.
