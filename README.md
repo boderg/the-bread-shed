@@ -111,77 +111,21 @@ This font was chosen for it's hand written aesthetic that I wanted to use for th
 
 The following are existing features of The Bread Shed site along with descriptions and screenshots:
 
-- **The Bread Shed Navigation Header**
-
-  - The Bread Shed navigation header utilises the company name as a main link to the home page so whichever page is selected it is possible to navigate back to the home page by clicking on The Bread Shed navigation header. This is made possible by the first link at the top of the responsive navbar on all pages.
-
-![screenshot](documentation/features/the-bread-shed-navigation-header.png)
-
-- **The Navigation Menu Button**
-
-  - The navigation menu button is located in the top right corner of every page and enables the ability to navigate to any page on the site with two clicks (with exception to the confirmation page which can only be accessed by completing the contact form). The button enables an offcanvas element to scroll in from the right-hand side of the page and has a list of clickable links that navigate to the various pages of the site.
-
-![screenshot](documentation/features/navigation-menu-button.png)
-
-- **The Offcanvas Navigation Menu**
-
-  - The offcanvas navigation menu scrolls in from the right-hand side of the page on all pages when the navigation menu button is clicked. This menu enables access to all pages in two clicks from the links located within. This offcanvas element also displays the store opening times. This utilises a bootstrap card element located within the offcanvas element.
-
-![screenshot](documentation/features/offcanvas-navigation-menu.png)
-
-- **The Social Media Links**
-
-  - The social media links located at the bottom of each page utilise Font Awesome 6 icons that have been wrapped in a link so that they are clickable. Each link is directed to it's relevant social media site and opens in a new browser tab so that navigation of the accessed page is not lost. Each social media link is highlighted when hovered over to indicate to the user that it is the one being selected.
-
-![screenshot](documentation/features/social-media-links.png)
-
-- **The Compliments Carousel**
-
-  - The compliments carousel in the lower center of the home page has been designed so that anyone visiting the site can instantly see the compliments left from previous customers. This instills confidence that the place is a reputable and desirable venue providing a great bite to eat for the hungry. The carousel is set to auto play and can be scrolled backward and forward using the arrows at each end if the viewer wants to override the default scroll time.
-
-![screenshot](documentation/features/scrolling-carousel.png)
-
-- **The About Us Offcanvas**
-
-  - The about us off canvas element is triggered by clicking on About Us at the bottom of every page. This enables an offcanvas element to scroll up from the bottom of the page and contains some information about the company. The about us link also changes color when hovered over so the user knows that is what they are about to click to view.
-
-![screenshot](documentation/features/about-us-offcanvas.png)
-
-- **The Sandwich Menu**
-
-  -The sandwich menu is where customers are able to view what sandwiches are on offer along with ingredients and prices. They are able to make an informed decision as to what they want in their sandwich and what type of bread to have it on. This menu uses the main background image of a sandwich.
-
-![screenshot](documentation/features/sandwich-menu.png)
-
-- **The Drinks Menu**
-
-  -The drinks menu is where customers are able to view what drinks are available along with varients and prices. They are able to make an informed decision as to what drink they want to have. This menu has an image of drinks as it's background to compliment it and add some dynamism to the site.
-
-![screenshot](documentation/features/drinks-menu.png)
-
-- **The Snacks Menu**
-
-  -The snacks menu is where customers are able view what snacks are avaialble along with varients and price. They are able to make an informed decision as to what snack they want to have. This menu has an image of some cookies as it's background to further compliment it and add another layer of dynamism to the site.
-
-![screenshot](documentation/features/snacks-menu.png)
-
-- **The Contact Form**
-
-  -The contact form is located on the contact page and is a means for customers to contact The Bread Shed and leave feedback, suggestions and comments. The customer (if they wish) is required to leave their name, email address and comment before the sumbit button will allow a message to be sent. Once sent the customer is taken to a confirmation page.
-
-![screenshot](documentation/features/contact-form.png)
-
-- **The Contact Address and Map**
-
-  -The contact address, phone number and map is located on the contact form page underneath the contact form. These details are so that the customer is able to find us and also ring through an order to us. The map is a google interactive map and thus enables the customer to get a better lock on our location.
-
-![screenshot](documentation/features/contact-map.png)
-
-- **The Confirmation Page**
-
-  -The confirmation page is a hidden page that is only accessed by completeing the contact form and has text thanking the customer for their feedback. This page is an automatic page and is set with a reset timer for 10 secs where it will then redirect back to the home page of The Bread Shed website. All navigation links are active on this page should the customer wish to speed up the return to any of the visible pages on the site. The timer is a meta located in the header of the confirmation page.
-
-![screenshot](documentation/features/confirmation.png)
+| Feature | Description | Image |
+| --- | --- | --- |
+| The Bread Shed Navigation Header | The Bread Shed navigation header utilises the company name as a main link to the home page so whichever page is selected it is possible to navigate back to the home page by clicking on The Bread Shed navigation header. This is made possible by the first link at the top of the responsive navbar on all pages. | ![screenshot](documentation/features/navigation-header.png) |
+| The Navigation Menu Button |  The navigation menu button is located in the top right corner of every page and enables the ability to navigate to any page on the site with two clicks (with exception to the confirmation page which can only be accessed by completing the contact form). The button enables an offcanvas element to scroll in from the right-hand side of the page and has a list of clickable links that navigate to the various pages of the site. | ![screenshot](documentation/features/navigation-button.png) |
+| The Offcanvas Navigation Menu |  The offcanvas navigation menu scrolls in from the right-hand side of the page on all pages when the navigation menu button is clicked. This menu enables access to all pages in two clicks from the links located within. This offcanvas element also displays the store opening times. This utilises a bootstrap card element located within the offcanvas element. | ![screenshot](documentation/features/offcanvas-menu.png) |
+| The Compliments Carousel | The compliments carousel in the lower center of the home page has been designed so that anyone visiting the site can instantly see the compliments left from previous customers. This instills confidence that the place is a reputable and desirable venue providing a great bite to eat for the hungry. The carousel is set to auto play and can be scrolled backward and forward using the arrows at each end if the viewer wants to override the default scroll time. | ![screenshot](documentation/features/compliments-carousel.png) |
+| The Social Media Links | The social media links located at the bottom of each page utilise Font Awesome 6 icons that have been wrapped in a link so that they are clickable. Each link is directed to it's relevant social media site and opens in a new browser tab so that navigation of the accessed page is not lost. Each social media link is highlighted when hovered over to indicate to the user that it is the one being selected. | ![screenshot](documentation/features/social-naviagtion-links.png) |
+| The About Us Offcanvas | The about us off canvas element is triggered by clicking on About Us at the bottom of every page. This enables an offcanvas element to scroll up from the bottom of the page and contains some information about the company. The about us link also changes color when hovered over so the user knows that is what they are about to click to view. | ![screenshot](documentation/features/offcanvas-about-us.png) |
+| The Sandwich Menu | The sandwich menu is where customers are able to view what sandwiches are on offer along with ingredients and prices. They are able to make an informed decision as to what they want in their sandwich and what type of bread to have it on. This menu uses the main background image of a sandwich. | ![screenshot](documentation/features/sandwich-menu.png) |
+| The Drinks Menu | The drinks menu is where customers are able to view what drinks are available along with varients and prices. They are able to make an informed decision as to what drink they want to have. This menu has an image of drinks as it's background to compliment it and add some dynamism to the site. | ![screenshot](documentation/features/drinks-menu.png) |
+| The Snacks Menu | The snacks menu is where customers are able view what snacks are avaialble along with varients and price. They are able to make an informed decision as to what snack they want to have. This menu has an image of some cookies as it's background to further compliment it and add another layer of dynamism to the site. | ![screenshot](documentation/features/snacks-menu.png) |
+| The Contact Form | The contact form is located on the contact page and is a means for customers to contact The Bread Shed and leave feedback, suggestions and comments. The customer (if they wish) is required to leave their name, email address and comment before the sumbit button will allow a message to be sent. Once sent the customer is taken to a confirmation page. | ![screenshot](documentation/features/contact-form.png) |
+| The Contact Address | The contact address and phone number are located on the contact page underneath the contact form. These details are so that the customer is able to find us and also ring through an order to us. | ![screenshot](documentation/features/contact-address.png) |
+| The Map | The map is located on the contact form page underneath the address and phone number. The map is so that the customer is able to find us. The map is a google interactive map and thus enables the customer to get a better lock on our location. | ![screenshot](documentation/features/contact-map.png) |
+| The Confirmation Page | The confirmation page is a hidden page that is only accessed by completeing the contact form and has text thanking the customer for their feedback. This page is an automatic page and is set with a reset timer for 10 secs where it will then redirect back to the home page of The Bread Shed website. All navigation links are active on this page should the customer wish to speed up the return to any of the visible pages on the site. The timer is a meta located in the header of the confirmation page. | ![screenshot](documentation/features/confirmation-page.png) |
 
 ### Future Features
 
